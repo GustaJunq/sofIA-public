@@ -1,0 +1,3495 @@
+O sol brilha no céu azul.
+As flores do jardim estão coloridas.
+O gato dorme no sofá macio.
+A criança brinca no parque.
+O cachorro corre atrás da bola.
+A professora ensina matemática.
+O livro está na estante.
+A música toca no rádio.
+O carro vermelho está estacionado.
+A chuva cai suavemente.
+O pássaro canta na árvore.
+A lua ilumina a noite.
+O computador está ligado.
+A porta está fechada.
+O relógio marca três horas.
+A comida está deliciosa.
+O café está quente.
+A água do mar é salgada.
+O vento sopra forte.
+A montanha é muito alta.
+O rio corre pela cidade.
+A ponte atravessa o vale.
+O avião voa nas nuvens.
+O trem chega na estação.
+O ônibus está atrasado.
+A bicicleta tem duas rodas.
+O semáforo está vermelho.
+A rua está movimentada.
+O prédio tem dez andares.
+A janela está aberta.
+O quadro está na parede.
+A mesa é de madeira.
+A cadeira está quebrada.
+O sofá é confortável.
+A cama está arrumada.
+O travesseiro é macio.
+O cobertor é quente.
+O lençol é branco.
+A toalha está molhada.
+O sabonete cheira bem.
+A escova de dentes é azul.
+O espelho está limpo.
+A televisão está desligada.
+O controle remoto sumiu.
+O telefone está tocando.
+A bateria está fraca.
+O carregador está na tomada.
+A internet está lenta.
+O computador travou.
+O mouse não funciona.
+O teclado está sujo.
+A tela está quebrada.
+O programa não abre.
+O arquivo foi salvo.
+A pasta está vazia.
+O download terminou.
+A impressora não imprime.
+O papel acabou.
+A tinta secou.
+O documento está pronto.
+A reunião foi adiada.
+O projeto está atrasado.
+A apresentação foi excelente.
+O relatório precisa de correções.
+A planilha tem erros.
+O gráfico mostra crescimento.
+Os dados foram atualizados.
+A análise está completa.
+O resultado surpreendeu todos.
+A conclusão é importante.
+A pesquisa foi detalhada.
+O estudo levou anos.
+A descoberta é revolucionária.
+O experimento funcionou.
+A hipótese foi confirmada.
+A teoria está correta.
+O método é eficiente.
+A técnica é moderna.
+O procedimento é simples.
+O processo é complexo.
+A etapa final chegou.
+O início foi difícil.
+O meio foi tranquilo.
+O fim está próximo.
+A jornada foi longa.
+O caminho é tortuoso.
+A estrada está esburacada.
+O asfalto é novo.
+A calçada está quebrada.
+O meio-fio é alto.
+A esquina é perigosa.
+O cruzamento tem semáforo.
+A avenida é larga.
+A viela é estreita.
+O beco não tem saída.
+A praça é bonita.
+O jardim tem flores.
+A fonte jorra água.
+O banco está ocupado.
+A árvore dá sombra.
+Os pássaros fazem ninho.
+As formigas trabalham muito.
+As abelhas fazem mel.
+As borboletas são coloridas.
+Os insetos são pequenos.
+Os animais precisam de água.
+Os peixes nadam no aquário.
+Os golfinhos são inteligentes.
+As baleias são enormes.
+Os tubarões são perigosos.
+As tartarugas são lentas.
+Os coelhos são rápidos.
+Os cavalos galopam no campo.
+As vacas dão leite.
+Os porcos vivem na fazenda.
+As galinhas botam ovos.
+Os patos nadam na lagoa.
+Os gansos são barulhentos.
+As ovelhas têm lã.
+Os carneiros têm chifres.
+As cabras sobem montanhas.
+Os elefantes são grandes.
+Os leões são ferozes.
+Os tigres caçam à noite.
+Os leopardos são ágeis.
+Os guepardos são velozes.
+As girafas têm pescoço longo.
+Os hipopótamos são pesados.
+Os rinocerontes têm chifres.
+Os ursos hibernam no inverno.
+Os lobos caçam em matilha.
+As raposas são espertas.
+Os macacos são brincalhões.
+Os gorilas são fortes.
+Os chimpanzés usam ferramentas.
+Os orangotangos vivem em árvores.
+Os cangurus pulam alto.
+Os coalas dormem muito.
+Os pinguins vivem no gelo.
+As focas mergulham fundo.
+As morsas têm presas grandes.
+Os crocodilos são répteis.
+Os jacarés vivem em rios.
+As cobras não têm pernas.
+Os lagartos tomam sol.
+As iguanas são verdes.
+Os camaleões mudam de cor.
+As salamandras são anfíbios.
+Os sapos pulam na lagoa.
+As rãs coaxam à noite.
+Os mosquitos picam.
+As moscas são chatas.
+As baratas são resistentes.
+Os grilos cantam.
+Os gafanhotos saltam.
+As libélulas voam rápido.
+As joaninhas são bonitinhas.
+Os besouros são duros.
+As aranhas tecem teias.
+Os escorpiões são venenosos.
+Os caranguejos andam de lado.
+Os camarões são saborosos.
+As lagostas são caras.
+Os polvos têm oito tentáculos.
+As lulas jorram tinta.
+As estrelas-do-mar regeneram braços.
+Os ouriços-do-mar têm espinhos.
+As medusas queimam.
+Os corais formam recifes.
+As esponjas filtram água.
+A natureza é maravilhosa.
+O ecossistema é delicado.
+A biodiversidade é importante.
+O meio ambiente precisa proteção.
+A poluição é prejudicial.
+O desmatamento destrói florestas.
+As queimadas causam danos.
+O aquecimento global preocupa.
+As mudanças climáticas afetam todos.
+A reciclagem ajuda o planeta.
+O lixo deve ser separado.
+O plástico polui oceanos.
+O vidro é reciclável.
+O papel vem das árvores.
+O metal pode ser reutilizado.
+A compostagem é útil.
+Os resíduos orgânicos viram adubo.
+O solo precisa de nutrientes.
+A terra é fértil.
+A agricultura alimenta pessoas.
+A pecuária cria gado.
+A pesca fornece alimento.
+A caça é regulamentada.
+A colheita foi abundante.
+A safra bateu recorde.
+O plantio começou.
+A semeadura é importante.
+A irrigação molha plantas.
+A adubação fortalece culturas.
+Os pesticidas matam pragas.
+Os herbicidas eliminam ervas.
+Os fungicidas combatem doenças.
+A tecnologia avança rápido.
+A ciência busca respostas.
+A medicina salva vidas.
+Os remédios curam doenças.
+As vacinas previnem problemas.
+Os antibióticos combatem bactérias.
+Os vírus causam infecções.
+As células formam tecidos.
+Os órgãos trabalham juntos.
+O coração bombeia sangue.
+Os pulmões respiram ar.
+O cérebro controla tudo.
+O fígado filtra toxinas.
+Os rins purificam sangue.
+O estômago digere comida.
+Os intestinos absorvem nutrientes.
+A pele protege o corpo.
+Os ossos sustentam estrutura.
+Os músculos movem partes.
+As articulações permitem flexão.
+Os tendões conectam músculos.
+Os ligamentos unem ossos.
+O sangue transporta oxigênio.
+As veias levam sangue.
+As artérias distribuem nutrientes.
+Os capilares são minúsculos.
+O sistema imunológico defende.
+Os glóbulos brancos combatem invasores.
+Os glóbulos vermelhos carregam oxigênio.
+As plaquetas coagulam sangue.
+O plasma é líquido.
+A linfa drena tecidos.
+Os gânglios filtram linfa.
+O baço armazena sangue.
+O timo produz células.
+A medula fabrica sangue.
+Os hormônios regulam funções.
+A tireoide controla metabolismo.
+As suprarrenais produzem adrenalina.
+O pâncreas secreta insulina.
+Os ovários produzem óvulos.
+Os testículos geram esperma.
+A reprodução cria vida.
+A gestação dura meses.
+O parto traz bebê.
+A amamentação nutre criança.
+O crescimento é gradual.
+O desenvolvimento é contínuo.
+A infância é importante.
+A adolescência traz mudanças.
+A juventude é energia.
+A maturidade traz experiência.
+A velhice merece respeito.
+A vida tem ciclos.
+A morte é inevitável.
+O nascimento é alegria.
+A família é base.
+Os pais educam filhos.
+Os avós contam histórias.
+Os irmãos brincam juntos.
+Os primos se visitam.
+Os tios dão presentes.
+As festas reúnem parentes.
+Os aniversários são celebrados.
+O Natal é especial.
+O Ano Novo traz esperanças.
+A Páscoa tem chocolate.
+O Carnaval é animado.
+As férias são aguardadas.
+O trabalho é necessário.
+O estudo abre portas.
+A escola ensina conhecimento.
+A universidade forma profissionais.
+O diploma certifica capacidade.
+A formatura emociona famílias.
+A carreira exige dedicação.
+O emprego dá sustento.
+O salário paga contas.
+As contas vencem todo mês.
+O aluguel é caro.
+A água tem tarifa.
+A luz aumentou.
+O gás está alto.
+O telefone cobra muito.
+A internet é essencial.
+O transporte custa.
+A gasolina subiu de novo.
+O álcool é alternativa.
+O diesel move caminhões.
+O etanol é renovável.
+A eletricidade move veículos.
+Os carros elétricos são modernos.
+Os híbridos economizam.
+As bicicletas não poluem.
+As motos são ágeis.
+Os caminhões transportam cargas.
+As vans levam grupos.
+Os táxis cobram corrida.
+Os aplicativos facilitam transporte.
+O metrô é rápido.
+O trem é pontual.
+O VLT é moderno.
+O bonde é antigo.
+O teleférico sobe morro.
+O funicular vence inclinações.
+O barco navega rio.
+O navio cruza oceano.
+A lancha é veloz.
+O iate é luxuoso.
+A canoa é simples.
+O caiaque é esportivo.
+A jangada é rústica.
+O submarino mergulha.
+O helicóptero pousa vertical.
+O avião decola na pista.
+O jato é supersônico.
+O planador não tem motor.
+O ultraleve é leve.
+O balão flutua no ar.
+O dirigível é grande.
+A nave espacial vai longe.
+O foguete é potente.
+O satélite orbita Terra.
+A estação espacial flutua.
+Os astronautas flutuam.
+A gravidade puxa objetos.
+A física explica fenômenos.
+A química estuda substâncias.
+A biologia analisa vida.
+A matemática calcula valores.
+A geometria mede formas.
+A álgebra usa letras.
+A trigonometria envolve ângulos.
+O cálculo deriva funções.
+A estatística analisa dados.
+A probabilidade prevê chances.
+A lógica estrutura raciocínio.
+A filosofia questiona tudo.
+A ética define moral.
+A moral guia ações.
+Os valores são importantes.
+Os princípios norteiam vida.
+As virtudes enobrecem caráter.
+Os vícios corrompem alma.
+A honestidade é fundamental.
+A verdade liberta.
+A mentira escraviza.
+A justiça é cega.
+A injustiça revolta.
+A paz é desejada.
+A guerra é terrível.
+O conflito gera sofrimento.
+A harmonia traz bem-estar.
+O equilíbrio é saudável.
+O desequilíbrio causa problemas.
+A saúde é riqueza.
+A doença é fraqueza.
+O bem-estar é meta.
+A qualidade de vida importa.
+O conforto é apreciado.
+O luxo é supérfluo.
+A simplicidade é elegante.
+A humildade é virtude.
+O orgulho é perigoso.
+A arrogância afasta pessoas.
+A modéstia atrai simpatia.
+A gentileza cativa corações.
+A grosseria repele amigos.
+A educação abre portas.
+A ignorância fecha mente.
+O conhecimento é poder.
+A sabedoria vem com idade.
+A experiência ensina lições.
+Os erros são professores.
+Os acertos motivam.
+O sucesso é relativo.
+O fracasso é temporário.
+A persistência vence obstáculos.
+A desistência não leva longe.
+A determinação move montanhas.
+A vontade supera limites.
+O esforço traz resultados.
+A preguiça retarda progresso.
+A disciplina forma caráter.
+O hábito cria rotina.
+A rotina estrutura dia.
+A organização facilita vida.
+A bagunça atrapalha tudo.
+A limpeza é higiene.
+A sujeira causa doenças.
+O asseio é essencial.
+A ordem ajuda concentração.
+O caos confunde mente.
+A clareza traz entendimento.
+A confusão gera dúvidas.
+A certeza conforta.
+A dúvida instiga busca.
+A curiosidade move ciência.
+O interesse motiva aprendizado.
+A motivação impulsiona ação.
+O desânimo paralisa pessoas.
+A esperança mantém vivos.
+O desespero cega razão.
+A fé move montanhas.
+A crença fortalece espírito.
+A religião une pessoas.
+A espiritualidade transcende matéria.
+A meditação acalma mente.
+A oração conecta divino.
+O ritual marca tradição.
+A tradição preserva cultura.
+A cultura define povo.
+A identidade é única.
+A diversidade enriquece mundo.
+A diferença deve ser respeitada.
+O respeito é básico.
+A tolerância é necessária.
+A intolerância divide sociedade.
+O preconceito cega julgamento.
+A discriminação machuca profundo.
+A igualdade é direito.
+A equidade é justa.
+A democracia permite voz.
+A ditadura cala povo.
+A liberdade é preciosa.
+A opressão é cruel.
+Os direitos são conquistados.
+Os deveres são obrigações.
+A responsabilidade é individual.
+A coletividade importa também.
+A sociedade precisa regras.
+As leis organizam convivência.
+A constituição é suprema.
+O código regula área.
+A norma estabelece padrão.
+O regulamento detalha processo.
+A infração gera punição.
+A multa cobra dinheiro.
+A prisão tira liberdade.
+A sentença define pena.
+O juiz aplica lei.
+O advogado defende cliente.
+O promotor acusa réu.
+A testemunha relata fato.
+A prova confirma versão.
+O júri decide culpa.
+A absolvição liberta inocente.
+A condenação pune culpado.
+A apelação revê caso.
+O recurso questiona decisão.
+A instância superior julga.
+O tribunal é colegiado.
+A Suprema Corte é final.
+A Justiça deve ser cega.
+O Direito protege cidadão.
+A cidadania exige participação.
+O voto é importante.
+A eleição escolhe representantes.
+O candidato promete mudanças.
+O político deve servir.
+A corrupção destrói país.
+A transparência é essencial.
+A prestação de contas obriga.
+A fiscalização controla gastos.
+O orçamento limita despesas.
+A receita vem de impostos.
+Os tributos financiam Estado.
+O imposto de renda taxa ganhos.
+O ICMS incide sobre mercadorias.
+O ISS cobra serviços.
+O IPTU taxa propriedade.
+O IPVA cobra veículo.
+A taxa paga serviço específico.
+A contribuição financia sistema.
+O INSS garante aposentadoria.
+O FGTS protege trabalhador.
+O seguro-desemprego ajuda demitido.
+O auxílio apoia necessitado.
+O benefício social ampara pobre.
+A assistência social acolhe.
+A previdência garante futuro.
+A aposentadoria vem com idade.
+A pensão é paga a dependente.
+O salário-família ajuda pais.
+O auxílio-doença cobre afastamento.
+A licença-maternidade protege mãe.
+A licença-paternidade inclui pai.
+As férias renovam energia.
+O décimo terceiro é extra.
+O vale-transporte facilita ida.
+O vale-refeição alimenta trabalhador.
+O vale-alimentação compra comida.
+O plano de saúde cobre tratamento.
+O convênio médico atende.
+O hospital trata doentes.
+A clínica faz consultas.
+O consultório recebe pacientes.
+O médico diagnostica problema.
+O enfermeiro cuida paciente.
+O técnico realiza exame.
+O farmacêutico vende remédio.
+A farmácia dispensa medicamento.
+A drogaria é comercial.
+O laboratório analisa amostras.
+O raio-x mostra ossos.
+A tomografia detalha órgãos.
+A ressonância mapeia tecidos.
+A ultrassonografia vê bebê.
+A endoscopia examina interior.
+A colonoscopia verifica intestino.
+O eletrocardiograma registra coração.
+O eletroencefalograma mede cérebro.
+A biópsia retira amostra.
+A cirurgia corrige problema.
+A anestesia dorme paciente.
+A sutura fecha ferida.
+O curativo protege machucado.
+O gesso imobiliza osso.
+A tala segura membro.
+A muleta ajuda caminhar.
+A cadeira de rodas mobiliza.
+A bengala apoia idoso.
+Os óculos corrigem visão.
+A lente melhora foco.
+O aparelho auditivo amplifica som.
+A prótese substitui membro.
+O implante é artificial.
+A órtese corrige postura.
+O colete sustenta coluna.
+A palmilha apoia pé.
+O sapato ortopédico corrige passo.
+A fisioterapia reabilita corpo.
+A terapia ocupacional treina habilidade.
+A fonoaudiologia trata fala.
+A psicologia cuida mente.
+A psiquiatria trata transtorno.
+A psicanálise investiga inconsciente.
+O terapeuta ouve paciente.
+O psicólogo aplica teste.
+O psiquiatra prescreve remédio.
+O neurologista trata sistema nervoso.
+O cardiologista cuida coração.
+O pneumologista trata pulmão.
+O gastroenterologista cuida digestão.
+O urologista trata sistema urinário.
+O ginecologista atende mulher.
+O obstetra acompanha gestação.
+O pediatra cuida de criança.
+O geriatra trata idoso.
+O oftalmologista cuida olho.
+O otorrinolaringologista trata ouvido.
+O dermatologista cuida pele.
+O ortopedista trata osso.
+O traumatologista atende acidentes.
+O cirurgião opera paciente.
+O anestesista aplica anestesia.
+O radiologista interpreta exame.
+O patologista analisa tecido.
+O hematologista estuda sangue.
+O oncologista trata câncer.
+O endocrinologista cuida hormônios.
+O nefrologista trata rins.
+O reumatologista cuida articulações.
+O infectologista trata infecções.
+O alergista cuida alergias.
+O imunologista estuda defesas.
+O nutrólogo orienta alimentação.
+O nutricionista monta dieta.
+O educador físico prescreve exercício.
+O personal trainer treina individual.
+O professor de yoga ensina postura.
+O instrutor de pilates fortalece core.
+O treinador de natação aperfeiçoa técnica.
+O técnico de futebol comanda time.
+O árbitro apita jogo.
+O juiz marca falta.
+O bandeirinha sinaliza impedimento.
+O goleiro defende gol.
+O zagueiro protege área.
+O lateral corre pela beirada.
+O volante marca meio-campo.
+O meia arma jogada.
+O atacante faz gol.
+O centroavante finaliza.
+O ponta dribla adversário.
+O técnico monta estratégia.
+O torcedor vibra na arquibancada.
+A torcida canta sem parar.
+O estádio está lotado.
+O campo está molhado.
+A bola está murcha.
+O placar está empatado.
+O jogo está emocionante.
+A partida vai para prorrogação.
+Os pênaltis definem campeão.
+O troféu é erguido.
+A medalha é dourada.
+O pódio tem três lugares.
+A vitória é comemorada.
+A derrota é amarga.
+O empate frustra expectativa.
+A classificação está apertada.
+A tabela mostra posições.
+A rodada foi agitada.
+O clássico esquenta rivalidade.
+O dérbi divide cidade.
+O campeonato está acirrado.
+A taça é cobiçada.
+O título é conquistado.
+A glória é efêmera.
+O fracasso é lição.
+A superação inspira.
+O recorde é quebrado.
+A marca é histórica.
+O feito é inédito.
+A façanha impressiona.
+O desempenho surpreende.
+A performance é excepcional.
+A atuação é memorável.
+O gesto é inesquecível.
+A jogada é genial.
+O lance é polêmico.
+A decisão é controversa.
+A arbitragem é questionada.
+O VAR revisa jogada.
+A tecnologia ajuda juiz.
+O replay mostra detalhe.
+A câmera lenta esclarece.
+A imagem comprova.
+O vídeo registra tudo.
+A gravação está disponível.
+A transmissão é ao vivo.
+O narrador descreve lance.
+O comentarista analisa tática.
+O repórter entrevista jogador.
+A coletiva é tensa.
+A declaração repercute.
+A polêmica está instalada.
+O debate divide opiniões.
+A discussão é acalorada.
+A conversa é produtiva.
+O diálogo é necessário.
+A comunicação é essencial.
+A linguagem expressa pensamento.
+A palavra tem poder.
+O discurso mobiliza massas.
+A retórica convence plateia.
+A eloquência impressiona.
+A oratória é arte.
+A escrita preserva ideias.
+O texto transmite mensagem.
+A leitura expande mente.
+O livro é tesouro.
+A literatura é arte.
+A poesia toca alma.
+O romance conta história.
+O conto é breve.
+A crônica registra cotidiano.
+O ensaio reflete profundo.
+A biografia narra vida.
+A autobiografia é pessoal.
+As memórias recordam passado.
+O diário é íntimo.
+A carta conecta distantes.
+O e-mail é rápido.
+A mensagem é instantânea.
+O SMS é curto.
+O WhatsApp dominou comunicação.
+O Telegram é alternativa.
+O Signal é seguro.
+A rede social conecta pessoas.
+O Facebook é antigo.
+O Instagram mostra fotos.
+O Twitter limita caracteres.
+O TikTok é viciante.
+O YouTube ensina tudo.
+O podcast é popular.
+O streaming mudou mídia.
+A Netflix revolucionou TV.
+O Spotify domina música.
+O Amazon Prime entrega rápido.
+A Apple inovou muito.
+A Google sabe tudo.
+A Microsoft domina empresas.
+A Meta quer metaverso.
+A Tesla fabrica carros elétricos.
+A SpaceX explora espaço.
+A Amazon vende de tudo.
+A Alibaba é gigante chinesa.
+A Samsung produz eletrônicos.
+A Sony faz PlayStation.
+A Nintendo criou Mario.
+A Xbox compete forte.
+O PC ainda resiste.
+O notebook é portátil.
+O tablet é versátil.
+O smartphone é essencial.
+O celular evoluiu muito.
+O smartwatch monitora saúde.
+O fone Bluetooth é prático.
+O speaker inteligente obedece voz.
+A Alexa escuta comando.
+A Siri responde perguntas.
+O Google Assistant ajuda.
+A inteligência artificial avança.
+O machine learning aprende.
+O deep learning é profundo.
+A rede neural imita cérebro.
+O algoritmo processa dados.
+O código programa máquina.
+A programação cria software.
+O desenvolvedor escreve código.
+O programador resolve problemas.
+O engenheiro projeta sistemas.
+O arquiteto planeja estrutura.
+O designer cria interface.
+O UX melhora experiência.
+A UI organiza elementos.
+O front-end mostra visual.
+O back-end processa lógica.
+O banco de dados armazena info.
+O servidor hospeda aplicação.
+A nuvem guarda arquivos.
+O backup protege dados.
+A segurança previne ataques.
+O firewall bloqueia invasões.
+O antivírus detecta ameaças.
+O hacker invade sistemas.
+O cracker quebra proteções.
+O phishing rouba senhas.
+O malware infecta dispositivo.
+O ransomware sequestra dados.
+O spyware espiona usuário.
+O adware mostra anúncios.
+O spam entope e-mail.
+O vírus se replica.
+O worm se espalha.
+O trojan se disfarça.
+A vulnerabilidade expõe falha.
+O patch corrige bug.
+A atualização melhora programa.
+A versão nova traz recursos.
+O beta testa funcionalidade.
+O alfa é experimental.
+O protótipo é inicial.
+O MVP valida ideia.
+A startup busca investimento.
+O empreendedor arrisca capital.
+O investidor busca retorno.
+O venture capital aposta alto.
+O anjo investe cedo.
+A rodada de investimento capta recursos.
+O valuation estima valor.
+A receita gera lucro.
+O faturamento é bruto.
+O lucro é líquido.
+O prejuízo é perda.
+O balanço mostra resultado.
+O demonstrativo detalha finanças.
+A contabilidade registra movimentos.
+O contador organiza números.
+O auditor verifica contas.
+O consultor aconselha estratégia.
+O coach treina habilidades.
+O mentor guia carreira.
+O líder inspira equipe.
+O gestor administra recursos.
+O gerente coordena projeto.
+O diretor define rumos.
+O presidente comanda empresa.
+O CEO é executivo-chefe.
+O CFO cuida finanças.
+O CTO gerencia tecnologia.
+O CMO lidera marketing.
+O COO opera negócio.
+O CHO zela por pessoas.
+O RH recruta talentos.
+A vaga está aberta.
+O currículo apresenta candidato.
+A entrevista avalia perfil.
+A dinâmica testa grupo.
+O teste mede conhecimento.
+A contratação é confirmada.
+A demissão é comunicada.
+O aviso prévio é obrigatório.
+A rescisão acerta contas.
+A experiência conta pontos.
+A competência faz diferença.
+A habilidade se desenvolve.
+O talento é nato.
+O dom é especial.
+A vocação chama.
+A paixão move ação.
+O amor transforma vidas.
+O ódio destrói relações.
+A raiva cega temporariamente.
+A alegria contagia ambiente.
+A tristeza pesa coração.
+O medo paralisa corpo.
+A coragem enfrenta perigo.
+A ansiedade antecipa futuro.
+A calma acalenta alma.
+A paz interior é meta.
+A felicidade é construída.
+A satisfação é interna.
+O prazer é momentâneo.
+A dor ensina lição.
+O sofrimento fortalece caráter.
+A superação é vitória.
+A resiliência é força.
+A vulnerabilidade é humana.
+A empatia conecta pessoas.
+A compaixão alivia dor.
+A solidariedade une esforços.
+A caridade ajuda necessitado.
+A generosidade dá sem esperar.
+O egoísmo pensa só em si.
+A ganância nunca satisfaz.
+A inveja corrói por dentro.
+O ciúme não confia.
+A gratidão valoriza recebido.
+O reconhecimento motiva esforço.
+A valorização retém talento.
+O incentivo estimula melhoria.
+A crítica construtiva aperfeiçoa.
+A crítica destrutiva desmotiva.
+O elogio sincero encanta.
+A bajulação é falsa.
+A sinceridade é refrescante.
+A hipocrisia é nojenta.
+A autenticidade atrai verdadeiros.
+A falsidade repele genuínos.
+A confiança se conquista.
+A desconfiança se instala.
+A fidelidade é rara.
+A traição machuca fundo.
+O perdão liberta alma.
+O rancor aprisiona coração.
+A vingança não satisfaz.
+A reconciliação restaura laços.
+A amizade é preciosa.
+O amor é sublime.
+A paixão é intensa.
+O relacionamento exige trabalho.
+O namoro é fase.
+O noivado é compromisso.
+O casamento é união.
+A separação é dolorosa.
+O divórcio é legal.
+A guarda é compartilhada.
+A pensão alimentícia sustenta.
+A partilha divide bens.
+A herança é recebida.
+O testamento expressa vontade.
+O inventário divide patrimônio.
+A sucessão transfere propriedade.
+A propriedade é direito.
+A posse é fato.
+O domínio é pleno.
+A locação é temporária.
+O aluguel é mensal.
+A compra é definitiva.
+A venda transfere bem.
+A troca é bilateral.
+A doação é gratuita.
+O empréstimo é devolvido.
+O financiamento é parcelado.
+A prestação vence mensalmente.
+Os juros encarecem dívida.
+A taxa é percentual.
+O desconto reduz valor.
+A promoção atrai cliente.
+A oferta é limitada.
+O estoque está acabando.
+A liquidação queima tudo.
+A Black Friday é imperdível.
+A Cyber Monday é online.
+A Prime Day é Amazon.
+O frete é grátis acima de valor.
+A entrega demora dias.
+O prazo é cumprido.
+O atraso frustra comprador.
+A devolução é garantida.
+O reembolso é processado.
+A troca é permitida.
+A garantia cobre defeito.
+A assistência técnica conserta.
+O reparo é rápido.
+A manutenção previne problema.
+O cuidado prolonga vida útil.
+O zelo preserva estado.
+O descuido causa dano.
+A negligência é grave.
+A imprudência é perigosa.
+A cautela é prudente.
+A prevenção evita acidente.
+O cuidado protege vida.
+A segurança é prioridade.
+O risco é calculado.
+A chance é aproveitada.
+A oportunidade bate uma vez.
+O timing é crucial.
+O momento é agora.
+A hora é essa.
+O tempo não espera.
+A pressa é inimiga da perfeição.
+A paciência é virtude.
+A espera é angustiante.
+A urgência pressiona decisão.
+A emergência exige ação.
+A crise testa caráter.
+O desafio fortalece.
+A dificuldade é passageira.
+O obstáculo é contornável.
+A barreira é superável.
+O limite é expandível.
+A possibilidade é infinita.
+O potencial é imenso.
+A capacidade surpreende.
+O talento floresce.
+A habilidade se aprimora.
+A técnica se aperfeiçoa.
+A prática leva à perfeição.
+O treino é essencial.
+A dedicação é necessária.
+O foco é fundamental.
+A concentração é importante.
+A atenção é preciosa.
+A distração atrapalha rendimento.
+A procrastinação adia sonhos.
+A ação concretiza planos.
+A execução realiza projeto.
+A implementação põe em prática.
+A realização traz satisfação.
+A conquista emociona.
+A vitória é merecida.
+O triunfo é celebrado.
+A glória é compartilhada.
+O mérito é reconhecido.
+O crédito é atribuído.
+A autoria é respeitada.
+O plágio é crime.
+A cópia é ilegal.
+A pirataria prejudica criador.
+Os direitos autorais protegem obra.
+A propriedade intelectual é valiosa.
+A patente garante exclusividade.
+A marca registra identidade.
+O copyright reserva direitos.
+A licença permite uso.
+O domínio público é livre.
+A criatividade é infinita.
+A imaginação não tem limites.
+A inspiração vem de tudo.
+A musa desperta artista.
+O artista cria beleza.
+A arte expressa sentimento.
+A pintura eterniza momento.
+O quadro decora ambiente.
+A escultura molda forma.
+A estátua homenageia figura.
+O monumento marca história.
+A arquitetura projeta espaço.
+O edifício impressiona altura.
+A construção emprega muitos.
+A obra avança rapidamente.
+O canteiro é perigoso.
+O operário trabalha duro.
+O engenheiro supervisiona tudo.
+O mestre de obras coordena.
+O pedreiro assenta tijolo.
+O servente mistura massa.
+O eletricista puxa fio.
+O encanador instala tubulação.
+O pintor dá acabamento.
+O carpinteiro faz móvel.
+O marceneiro trabalha madeira.
+O serralheiro solda ferro.
+O vidraceiro instala vidro.
+O gesseiro faz forro.
+O azulejista reveste parede.
+O marmorista polê pedra.
+O paisagista projeta jardim.
+O jardineiro cuida plantas.
+A grama precisa ser cortada.
+As flores devem ser regadas.
+A árvore dá sombra agradável.
+O fruto está maduro.
+A colheita será farta.
+O pomar está florido.
+A horta produz verduras.
+Os legumes estão frescos.
+As frutas são saborosas.
+Os vegetais são saudáveis.
+A alimentação equilibrada é importante.
+A dieta balanceada nutre bem.
+A nutrição adequada fortalece.
+A vitamina previne doença.
+O mineral é essencial.
+A proteína constrói músculo.
+O carboidrato dá energia.
+A gordura é necessária com moderação.
+A fibra ajuda digestão.
+A água hidrata organismo.
+O suco é nutritivo.
+O refrigerante tem muito açúcar.
+O café desperta mente.
+O chá acalma nervos.
+O leite fornece cálcio.
+O iogurte tem probióticos.
+O queijo é saboroso.
+A manteiga é calórica.
+O pão é alimento básico.
+O arroz acompanha tudo.
+O feijão é tradicional brasileiro.
+A carne é fonte de proteína.
+O frango é versátil.
+O peixe é saudável.
+O ovo é completo.
+A salada é refrescante.
+A sopa aquece corpo.
+O caldo reconforta alma.
+O ensopado é substancioso.
+O assado fica dourado.
+O grelhado é light.
+O frito é gostoso mas gorduroso.
+O cozido preserva nutrientes.
+O vapor mantém vitaminas.
+O micro-ondas é rápido.
+O forno assa uniformemente.
+O fogão cozinha tradicionalmente.
+A panela de pressão acelera cozimento.
+A frigideira dora alimento.
+A panela comum serve básico.
+A leiteira ferve leite.
+A chaleira esquenta água.
+O caldeirão faz muito.
+A forma modela bolo.
+A assadeira leva forno.
+O refratário vai à mesa.
+O prato serve comida.
+O copo contém bebida.
+O talher auxilia alimentação.
+A faca corta alimento.
+O garfo espeta pedaço.
+A colher pega líquido.
+A colher de sopa é grande.
+A colher de chá é pequena.
+A colher de sobremesa é média.
+O guardanapo limpa boca.
+A toalha cobre mesa.
+O jogo americano individualiza lugar.
+O sousplat decora base.
+A baixela é conjunto.
+O aparelho de jantar é completo.
+A louça pode ser lavada.
+A pia está cheia.
+A esponja esfrega sujeira.
+O detergente tira gordura.
+A água enxágua espuma.
+A máquina lava louça sozinha.
+A geladeira conserva alimento.
+O freezer congela comida.
+O fogão prepara refeição.
+O micro-ondas esquenta rapidamente.
+A batedeira mistura massa.
+O liquidificador tritura ingrediente.
+O mixer é prático.
+O processador pica tudo.
+A centrífuga seca salada.
+O espremedor extrai suco.
+A cafeteira faz café.
+A torradeira tosta pão.
+A sanduicheira grelhá lanche.
+O grill faz churrasco interno.
+A fritadeira elétrica é Air Fryer agora.
+A panela elétrica cozinha sozinha.
+O cooktop é moderno.
+O fogão de indução é eficiente.
+A coifa elimina fumaça.
+A exaustão renova ar.
+O ventilador circula vento.
+O ar-condicionado climatiza ambiente.
+O aquecedor esquenta cômodo.
+A lareira aquece e decora.
+A salamandra é eficiente.
+O radiador distribui calor.
+O piso aquecido é luxo.
+A isolação térmica economiza energia.
+O isolamento acústico reduz ruído.
+O barulho incomoda vizinhos.
+O som alto perturba.
+A música relaxa mente.
+A melodia embala sono.
+O ritmo faz dançar.
+A harmonia agrada ouvido.
+A desafinação irrita.
+O tom é importante.
+A nota musical tem frequência.
+A escala organiza sons.
+O acorde combina notas.
+A partitura registra música.
+A clave indica posição.
+O compasso marca tempo.
+A batida define ritmo.
+O metrônomo mantém andamento.
+O instrumento produz som.
+O piano tem teclas.
+O violão tem cordas.
+A guitarra é elétrica.
+O baixo marca grave.
+A bateria dá ritmo.
+O tambor é primitivo.
+A percussão marca beat.
+A flauta é soprada.
+O saxofone é jazz.
+A trombeta anuncia.
+O trombone desliza.
+A tuba é grave.
+O clarinete é versátil.
+O oboé tem palheta dupla.
+O fagote é grave também.
+O violino é agudo.
+A viola é maior que violino.
+O violoncelo é médio.
+O contrabaixo é enorme.
+A harpa é angelical.
+O cravo é antigo.
+O órgão é imponente.
+A gaita é alegre.
+O acordeão é sanfona.
+A bandolim é pequeno.
+O cavaquinho é brasileiro.
+O banjo é americano.
+O ukulele é havaiano.
+O sitar é indiano.
+A cítara é antiga.
+O alaúde é medieval.
+A lira é grega.
+O pandeiro marca samba.
+O agogô é duplo.
+O berimbau é capoeira.
+A cuíca é carnaval.
+O reco-reco raspa.
+O chocalho balança.
+O ganzá sacode.
+A matraca gira.
+O triângulo tilinta.
+Os pratos batem.
+O bumbo retumba.
+A caixa repica.
+O surdo marca grave.
+O tamborim é ágil.
+A timba é grave.
+O conga é afro.
+O bongô é duplo.
+O djembê africano ressoa.
+A tabla indiana é complexa.
+Os tímpanos orquestram.
+O xilofone tem lâminas.
+A marimba é grave.
+O vibrafone vibra.
+O glockenspiel é agudo.
+Os sinos tocam.
+O carrilhão é conjunto.
+A sineta toca.
+O apito avisa.
+A buzina alerta.
+A sirene urge.
+O alarme desperta.
+O despertador acorda.
+O relógio marca hora.
+O cronômetro mede tempo exato.
+O timer conta regressivo.
+A ampulheta vira.
+O relógio de sol marca sombra.
+O relógio de parede decora.
+O relógio de pulso é pessoal.
+O relógio digital mostra números.
+O relógio analógico tem ponteiros.
+O relógio de bolso é vintage.
+O relógio cuco canta hora.
+A agenda organiza compromisso.
+O calendário mostra datas.
+A data marca dia.
+O dia tem vinte e quatro horas.
+A hora tem sessenta minutos.
+O minuto tem sessenta segundos.
+O segundo é breve.
+O milissegundo é ínfimo.
+O nanossegundo é imperceptível.
+A eternidade é infinita.
+O momento é fugaz.
+O instante é único.
+A época marca período.
+A era define tempo longo.
+O século tem cem anos.
+A década tem dez anos.
+O ano tem doze meses.
+O mês tem semanas.
+A semana tem sete dias.
+O dia tem manhã tarde e noite.
+A madrugada é antes do amanhecer.
+A aurora desponta.
+O alvorecer é belo.
+O nascer do sol ilumina.
+A manhã é produtiva.
+O meio-dia divide dia.
+A tarde é quente.
+O entardecer é romântico.
+O pôr do sol é espetáculo.
+O crepúsculo é mágico.
+O anoitecer chega.
+A noite cai.
+A escuridão prevalece.
+A meia-noite é misteriosa.
+As estrelas brilham.
+A lua reflete sol.
+As constelações formam desenho.
+A Via Láctea é nossa galáxia.
+O universo é imenso.
+O cosmos é misterioso.
+O espaço é vazio.
+O vácuo é absoluto.
+A matéria é rara lá.
+A energia é abundante.
+A gravidade atrai massas.
+A órbita é trajetória.
+A rotação gira eixo.
+A translação circunda estrela.
+O planeta orbita sol.
+A estrela produz luz.
+O sol é estrela.
+A lua é satélite natural.
+O satélite artificial orbita planeta.
+O asteroide é rochoso.
+O cometa tem cauda.
+O meteoro cruza céu.
+O meteorito cai na Terra.
+A chuva de meteoros encanta.
+O eclipse esconde astro.
+O eclipse solar escurece dia.
+O eclipse lunar avermelha lua.
+A lua cheia ilumina tudo.
+A lua nova some.
+A lua crescente aumenta.
+A lua minguante diminui.
+A fase lunar afeta maré.
+A maré sobe e desce.
+A maré alta inunda.
+A maré baixa expõe.
+A onda quebra na praia.
+A ressaca é perigosa.
+A corrente marítima arrasta.
+O redemoinho gira.
+O furacão destrói tudo.
+O tufão é asiático.
+O ciclone é genérico.
+O tornado é violento.
+A tempestade assusta.
+A trovoada é barulhenta.
+O trovão retumba.
+O raio risca céu.
+O relâmpago ilumina noite.
+A faísca é elétrica.
+A eletricidade flui.
+A corrente elétrica transporta energia.
+A voltagem é tensão.
+A amperagem é intensidade.
+A resistência dificulta passagem.
+O condutor facilita fluxo.
+O isolante impede passagem.
+O circuito é caminho.
+O curto-circuito é falha.
+A sobrecarga queima fusível.
+O disjuntor protege instalação.
+A tomada fornece energia.
+O plugue se conecta.
+O adaptador converte padrão.
+A extensão alcança longe.
+O fio conduz eletricidade.
+O cabo tem proteção.
+A fiação distribui energia pela casa.
+O quadro de força centraliza.
+O medidor conta consumo.
+A conta de luz chega mensalmente.
+A energia renovável é sustentável.
+A energia solar vem do sol.
+A energia eólica vem do vento.
+A energia hidrelétrica vem da água.
+A energia geotérmica vem do calor terrestre.
+A biomassa queima matéria orgânica.
+O petróleo é combustível fóssil.
+O carvão mineral é antigo.
+O gás natural é abundante.
+A energia nuclear divide átomo.
+A fissão libera energia enorme.
+A fusão une núcleos.
+O reator controla reação.
+A usina gera eletricidade.
+A termelétrica queima combustível.
+A hidrelétrica usa represa.
+A barragem retém água.
+A turbina gira com força.
+O gerador converte movimento em eletricidade.
+A transmissão leva energia longe.
+A distribuição entrega ao consumidor.
+A subestação transforma voltagem.
+O transformador ajusta tensão.
+O poste sustenta cabo.
+A torre alta transmite longas distâncias.
+A linha de transmissão cruza país.
+A rede elétrica conecta tudo.
+O sistema interligado é nacional.
+A matriz energética é diversificada.
+A eficiência energética economiza.
+O desperdício deve ser evitado.
+A economia de energia reduz conta.
+O consumo consciente ajuda planeta.
+A sustentabilidade é urgente.
+O desenvolvimento sustentável equilibra.
+O crescimento econômico precisa ser verde.
+A industrialização poluiu muito.
+A revolução industrial mudou mundo.
+A máquina a vapor iniciou era.
+A locomotiva puxava vagões.
+O trem de carga transporta mercadoria.
+O trem de passageiros leva pessoas.
+A ferrovia conecta cidades.
+Os trilhos guiam composição.
+A estação ferroviária é ponto de partida.
+A plataforma fica lotada.
+O apito anuncia partida.
+O maquinista conduz trem.
+O condutor verifica bilhetes.
+A passagem é validada.
+O bilhete eletrônico é moderno.
+O cartão de transporte facilita.
+A catraca libera entrada.
+O bloqueio impede evasão.
+A tarifa é cobrada.
+O subsídio reduz preço.
+A gratuidade beneficia idoso.
+A meia-entrada é para estudante.
+O desconto incentiva uso.
+A integração permite baldeação.
+A conexão entre linhas otimiza.
+O trajeto é planejado.
+O itinerário é seguido.
+A rota é definida.
+O caminho mais curto economiza tempo.
+O atalho reduz distância.
+O desvio evita obstáculo.
+A volta é necessária às vezes.
+O retorno completa ida.
+A viagem de ida e volta é comum.
+O passeio é agradável.
+A excursão é organizada.
+O tour guiado explica pontos.
+O guia turístico conhece história.
+O turismo movimenta economia.
+O turista gasta dinheiro.
+O visitante aprecia cultura.
+O viajante conhece lugares.
+O explorador desbrava território.
+O aventureiro busca emoção.
+O mochileiro viaja barato.
+O albergue hospeda jovens.
+O hostel é econômico.
+O hotel é confortável.
+A pousada é aconchegante.
+A hospedaria é simples.
+O resort é completo.
+O all-inclusive inclui tudo.
+A diária cobre pernoite.
+O check-in é na chegada.
+O check-out é na saída.
+A reserva garante vaga.
+A confirmação assegura quarto.
+O voucher comprova pagamento.
+A recepção atende hóspede.
+O recepcionista registra entrada.
+O concierge ajuda com informações.
+O mensageiro leva bagagem.
+O carregador sobe mala.
+A gorjeta é esperada.
+A camareira arruma quarto.
+O quarto é limpo diariamente.
+A roupa de cama é trocada.
+A toalha é substituída.
+O frigobar tem bebidas.
+O minibar cobra caro.
+O cofre guarda valores.
+A televisão a cabo tem canais.
+O Wi-Fi é gratuito geralmente.
+A senha é fornecida.
+O ar-condicionado regula temperatura.
+O aquecimento funciona no inverno.
+A varanda tem vista.
+A sacada é pequena.
+O terraço é amplo.
+A cobertura é luxuosa.
+A suíte é espaçosa.
+O quarto duplo tem duas camas.
+O quarto de casal tem cama grande.
+O quarto single é individual.
+A acomodação é adequada.
+O conforto é prioridade.
+A limpeza é impecável.
+A higiene é fundamental.
+O ambiente é agradável.
+A decoração é bonita.
+O estilo é moderno.
+O design é contemporâneo.
+A arquitetura é impressionante.
+O prédio histórico foi preservado.
+O patrimônio cultural é protegido.
+O monumento histórico atrai turista.
+A estátua homenageia herói.
+O busto representa personalidade.
+A escultura moderna intriga.
+A instalação artística provoca.
+A arte contemporânea questiona.
+A performance é efêmera.
+A intervenção urbana surpreende.
+O grafite coloriu muro.
+O mural conta história.
+A pichação suja parede.
+A limpeza urbana remove sujeira.
+O gari varre rua.
+A vassoura junta lixo.
+A pá recolhe entulho.
+O carrinho transporta resíduo.
+O caminhão de lixo recolhe.
+A coleta seletiva separa material.
+O reciclável vai para cooperativa.
+A cooperativa processa material.
+O catador recolhe papelão.
+O papel reciclado volta à produção.
+O ciclo fecha loop.
+A economia circular reutiliza.
+O reuso prolonga vida útil.
+O conserto é mais barato que comprar novo.
+A manutenção preventiva evita quebra.
+A manutenção corretiva repara dano.
+O desgaste natural acontece.
+A obsolescência programada é antiética.
+A durabilidade é qualidade.
+A resistência é importante.
+A fragilidade é defeito.
+A robustez garante longevidade.
+A solidez inspira confiança.
+A firmeza é necessária.
+A estabilidade previne queda.
+O equilíbrio mantém posição.
+A simetria agrada visão.
+A assimetria cria tensão.
+A proporção é harmoniosa.
+A escala define tamanho relativo.
+A medida é precisa.
+A exatidão é crucial.
+A precisão é milimétrica.
+A tolerância permite variação.
+A margem de erro é aceitável.
+O erro humano acontece.
+O acidente é imprevisível.
+O imprevisto atrapalha plano.
+A contingência prevê alternativa.
+O plano B é reserva.
+A alternativa é opção.
+A escolha é pessoal.
+A decisão é responsabilidade.
+A consequência é inevitável.
+O resultado é visível.
+O efeito é mensurável.
+O impacto é significativo.
+A influência é grande.
+O poder transforma realidade.
+A força move objetos.
+A energia move tudo.
+O movimento é vida.
+A inércia resiste mudança.
+O atrito freia movimento.
+A velocidade é rapidez.
+A aceleração aumenta velocidade.
+A desaceleração diminui velocidade.
+A parada completa movimento.
+O repouso é ausência de movimento.
+A quietude acalma.
+O silêncio é raro.
+O barulho é constante na cidade.
+A poluição sonora incomoda.
+O ruído causa estresse.
+O som alto prejudica audição.
+A surdez é perda auditiva.
+A cegueira é perda visual.
+A visão é sentido precioso.
+A audição capta sons.
+O olfato detecta cheiros.
+O paladar sente sabores.
+O tato percebe textura.
+Os cinco sentidos captam mundo.
+A percepção interpreta estímulo.
+A sensação é física.
+A emoção é psíquica.
+O sentimento é profundo.
+A paixão é avassaladora.
+O amor é sublime já disse.
+O ódio destrói também já disse.
+A indiferença machuca talvez mais.
+A frieza é cruel.
+A dureza não perdoa.
+A rigidez não cede.
+A flexibilidade se adapta.
+A maleabilidade se molda.
+A plasticidade se transforma.
+A elasticidade volta ao normal.
+A tensão estica material.
+A compressão espreme.
+A torção gira extremos.
+A flexão curva objeto.
+A ruptura quebra peça.
+A fratura é quebra de osso.
+O corte divide partes.
+A incisão é precisa.
+O talho é profundo.
+O ferimento sangra.
+O sangramento precisa estancar.
+A hemorragia é grave.
+O curativo estanca sangue.
+A compressa pressiona área.
+O torniquete é emergencial.
+O primeiros socorros salvam vida.
+O socorrista é treinado.
+O paramédico atende emergência.
+A ambulância transporta urgência.
+O resgate salva vítimas.
+O bombeiro apaga incêndio.
+O fogo destrói tudo.
+A chama queima.
+A brasa está quente.
+A cinza é resíduo.
+A fumaça sufoca.
+A fuligem suja tudo.
+O carvão queimou.
+A lenha alimenta fogo.
+O graveto acende facilmente.
+O fósforo risca.
+O isqueiro acende cigarro.
+O cigarro faz mal.
+O tabaco vicia.
+A nicotina é droga.
+O alcatrão entope pulmão.
+O vício escraviza.
+A dependência química destrói.
+O álcool embriaga.
+A bebida alcoólica prejudica fígado.
+A cerveja é popular.
+O vinho acompanha jantar.
+A cachaça é brasileira.
+O uísque é importado.
+A vodka é russa.
+O rum vem de cana.
+A tequila é mexicana.
+O saquê é japonês.
+O champanhe celebra.
+O espumante é alternativa.
+O drink mistura ingredientes.
+O coquetel é elaborado.
+O bartender prepara bebida.
+O barman serve cliente.
+O balcão separa atendente.
+O bar serve bebida.
+A boate toca música alta.
+A balada anima noite.
+A festa reúne amigos.
+A comemoração celebra evento.
+O aniversário marca ano de vida.
+A formatura celebra conquista.
+O casamento une casal.
+O batizado apresenta bebê à igreja.
+A primeira comunhão é sacramento.
+A crisma confirma fé.
+O bar mitzvah é judaico.
+O bat mitzvah é para menina.
+A quinceañera é latina.
+A debutante completa quinze anos.
+A maioridade chega aos dezoito.
+A idade adulta traz responsabilidade.
+A maturidade vem com vivência.
+A sabedoria acumula experiências.
+A ignorância é falta de conhecimento.
+A burrice é falta de inteligência.
+A inteligência resolve problemas.
+A esperteza encontra atalhos.
+A malandragem engana tolos.
+A ingenuidade acredita fácil.
+A inocência é pura.
+A pureza é rara.
+A contaminação polui.
+A poluição estraga ambiente.
+A degradação destrói ecossistema.
+A destruição é irreversível às vezes.
+A recuperação é possível.
+A restauração revive área.
+A regeneração renova tecido.
+A cicatrização fecha ferida.
+A cura é completa.
+A melhora é gradual.
+A piora preocupa.
+A estabilização é primeiro passo.
+A recuperação demora.
+A reabilitação é processo longo.
+A fisioterapia fortalece.
+A terapia trata problema.
+O tratamento é específico.
+A medicação controla sintoma.
+O remédio alivia dor.
+O analgésico reduz sofrimento.
+O anti-inflamatório diminui inflamação.
+O antibiótico mata bactéria.
+O antiviral combate vírus.
+O antifúngico elimina fungo.
+O antiparasitário expulsa parasita.
+A vacina imuniza.
+O soro neutraliza veneno.
+O antídoto salva envenenado.
+O veneno mata.
+A toxina é perigosa.
+O tóxico contamina.
+A substância química pode ser nociva.
+O produto químico requer cuidado.
+O reagente participa de reação.
+A reação química transforma substância.
+O catalisador acelera reação.
+O inibidor retarda processo.
+A enzima é catalisador biológico.
+A proteína tem função estrutural.
+O aminoácido é bloco construtor.
+A cadeia peptídica forma proteína.
+O DNA guarda informação genética.
+O RNA transmite código.
+O gene codifica característica.
+O genoma é conjunto de genes.
+A mutação altera código.
+A evolução seleciona vantagens.
+A seleção natural privilegia apto.
+A adaptação permite sobrevivência.
+A sobrevivência é imperativo.
+A extinção é fim de espécie.
+O desaparecimento é triste.
+A conservação preserva espécie.
+A proteção salva animal.
+A reserva abriga biodiversidade.
+O parque nacional protege área.
+A área de proteção restringe uso.
+A zona de amortecimento cerca reserva.
+O corredor ecológico conecta áreas.
+A conectividade permite migração.
+A migração é deslocamento sazonal.
+A hibernação economiza energia.
+A estivação é sono de verão.
+A metamorfose transforma animal.
+A lagarta vira borboleta.
+O girino vira sapo.
+A ninfa é estágio intermediário.
+A pupa é casulo.
+O ovo é início da vida.
+A larva eclode de ovo.
+O embrião se desenvolve.
+O feto cresce na barriga.
+A gestação gera nova vida.
+O parto expulsa bebê.
+O cordão umbilical nutre feto.
+A placenta filtra nutrientes.
+O útero abriga feto.
+O ovário produz óvulo.
+A trompa conduz óvulo.
+O espermatozoide fecunda óvulo.
+A fecundação cria zigoto.
+A divisão celular multiplica células.
+A mitose duplica célula.
+A meiose cria gameta.
+O gameta tem metade cromossomo.
+O cromossomo carrega gene.
+O par de cromossomos é homólogo.
+A herança genética vem dos pais.
+A hereditariedade transmite característica.
+O traço dominante se expressa.
+O traço recessivo se esconde.
+O genótipo é código genético.
+O fenótipo é expressão visível.
+A característica é herdada ou adquirida.
+O ambiente influencia expressão.
+A epigenética estuda essa influência.
+A regulação gênica controla expressão.
+O interruptor molecular liga ou desliga gene.
+A transcrição copia DNA em RNA.
+A tradução produz proteína.
+A síntese proteica é essencial.
+O ribossomo monta proteína.
+O retículo endoplasmático processa proteína.
+O complexo de Golgi empacota proteína.
+A mitocôndria produz energia.
+O cloroplasto faz fotossíntese.
+A fotossíntese converte luz em energia.
+A respiração celular libera energia.
+O ATP é moeda energética.
+A glicose é fonte de energia.
+A glicólise quebra glicose.
+O ciclo de Krebs gera energia.
+A cadeia respiratória completa processo.
+O oxigênio aceita elétron.
+A água é produto final.
+O dióxido de carbono é liberado.
+A planta absorve CO2.
+A árvore sequestra carbono.
+A floresta é pulmão do mundo.
+A Amazônia é maior floresta tropical.
+A floresta temperada tem estações.
+A floresta boreal é de coníferas.
+A taiga é fria.
+A tundra é gelada.
+O deserto é seco.
+O oásis é refúgio no deserto.
+A savana tem gramíneas e árvores esparsas.
+O cerrado é savana brasileira.
+O pampa tem campos.
+A pradaria é planície gramada.
+A estepe é árida.
+O pântano é alagado.
+O mangue é costeiro.
+A restinga protege praia.
+A duna é monte de areia.
+A praia é encontro de terra e mar.
+A costa é litoral.
+O litoral tem praias.
+A ilha é cercada de água.
+O arquipélago é conjunto de ilhas.
+A península é quase ilha.
+O istmo conecta terras.
+O cabo é ponta de terra.
+O golfo é reentrância grande.
+A baía é menor que golfo.
+O estreito separa terras.
+O canal é artificial geralmente.
+O fjord é vale glacial inundado.
+O delta é foz ramificada.
+O estuário é foz larga.
+A foz é encontro rio-mar.
+A nascente é início de rio.
+A cabeceira fica na montanha.
+O afluente alimenta rio principal.
+O tributário é afluente.
+A bacia hidrográfica drena área.
+A vertente é lado de montanha.
+A encosta é inclinada.
+O declive desce.
+A subida sobe.
+O topo é ponto mais alto.
+O cume é pico.
+A cordilheira é cadeia de montanhas.
+A serra é montanha menor.
+O morro é elevação.
+A colina é suave.
+A planície é plana.
+O planalto é elevado mas plano.
+O vale é depressão entre montes.
+O desfiladeiro é vale estreito.
+O cânion é vale profundo.
+A ravina é sulco profundo.
+A voçoroca é erosão grande.
+A erosão desgasta solo.
+O intemperismo degrada rocha.
+A sedimentação deposita material.
+A compactação comprime sedimento.
+A litificação forma rocha.
+A rocha sedimentar vem de sedimento.
+A rocha ígnea vem de magma.
+A rocha metamórfica sofreu transformação.
+O magma é rocha derretida.
+A lava é magma na superfície.
+O vulcão expele lava.
+A erupção é violenta.
+A cratera é buraco no topo.
+A caldeira é cratera grande.
+O géiser jorra água quente.
+A fonte termal aquece naturalmente.
+A água mineral tem propriedades.
+O termalismo trata com água.
+A hidroterapia usa água como terapia.
+A talassoterapia usa água do mar.
+A aromaterapia usa óleos essenciais.
+A cromoterapia usa cores.
+A musicoterapia usa música.
+A ludoterapia usa jogos.
+A terapia ocupacional usa atividades.
+A fonoterapia corrige fala.
+A equoterapia usa cavalos.
+A pet terapia usa animais.
+O animal de estimação faz companhia.
+O cachorro é fiel.
+O gato é independente.
+O pássaro canta bonito.
+O peixe nada no aquário já disse.
+O hamster é fofo.
+O porquinho-da-índia é dócil.
+O coelho é peludo.
+O furão é brincalhão.
+O chinchila tem pelo macio.
+O ouriço é espinhoso mas fofo.
+A tartaruga é lenta já disse.
+O lagarto toma sol já disse.
+A cobra de estimação assusta visita.
+A aranha tarântula é exótica.
+O escorpião é perigoso demais para pet.
+O bicho-pau imita graveto.
+A joaninha traz sorte.
+A borboleta vive pouco.
+A mariposa é noturna.
+A cigarra canta no verão.
+A formiga trabalha em colônia.
+A abelha produz mel já disse.
+A vespa é agressiva.
+O marimbondo dói muito.
+O besouro rola bosta.
+O vaga-lume acende à noite.
+A libélula tem asas transparentes.
+O gafanhoto salta longe.
+O grilo canta esfregando asas.
+A barata é nojenta.
+A pulga pula alto.
+O piolho infesta cabelo.
+O carrapato suga sangue.
+A lombriga é verme intestinal.
+A tênia é solitária.
+O parasita vive às custas de hospedeiro.
+O hospedeiro abriga parasita.
+O vetor transmite doença.
+O mosquito transmite dengue.
+A dengue causa febre.
+A febre amarela mata.
+A malária é grave.
+A zika preocupou grávidas.
+A chikungunya causa dor articular.
+A covid mudou mundo.
+A pandemia parou tudo.
+O lockdown isolou pessoas.
+O isolamento social achatou curva.
+A quarentena durou semanas.
+O distanciamento virou norma.
+A máscara protegeu muitos.
+O álcool em gel higienizou.
+A vacina salvou milhões.
+A imunização coletiva protege todos.
+A dose de reforço mantém proteção.
+O efeito colateral é raro geralmente.
+A reação adversa preocupa.
+A alergia é reação exagerada.
+A anafilaxia é emergência.
+A urticária coça muito.
+O inchaço é edema.
+A vermelhidão é hiperemia.
+A coceira é prurido.
+A dor é desconforto.
+O desconforto incomoda.
+A dormência é perda de sensibilidade.
+O formigamento é parestesia.
+A tontura é vertigem às vezes.
+A náusea enjoa.
+O vômito expulsa conteúdo.
+A diarreia é evacuação líquida.
+A constipação é intestino preso.
+A flatulência é gases.
+A azia queima estômago.
+O refluxo sobe.
+A gastrite inflama estômago.
+A úlcera é ferida.
+A hérnia é protrusão.
+A apendicite inflama apêndice.
+A vesícula guarda bile.
+O cálculo biliar é pedra.
+A pedra no rim dói muito.
+A infecção urinária arde.
+A cistite inflama bexiga.
+A nefrite inflama rim.
+A próstata aumenta com idade.
+A prostatite inflama próstata.
+A disfunção erétil é impotência.
+A ejaculação precoce frustra.
+A libido é desejo sexual.
+A fertilidade é capacidade reprodutiva.
+A infertilidade dificulta gravidez.
+A reprodução assistida ajuda casais.
+A fertilização in vitro é FIV.
+A inseminação artificial introduz esperma.
+O banco de sêmen congela material.
+A doação de óvulos ajuda mulheres.
+A barriga de aluguel gera bebê para outros.
+A gestação de substituição é controversa.
+A adoção é alternativa linda.
+A família adotiva acolhe criança.
+O filho adotivo é amado igual.
+O amor não depende de genética.
+O laço afetivo é construído.
+O vínculo se fortalece com tempo.
+A confiança é base de relacionamento.
+O respeito mútuo é essencial.
+O diálogo resolve conflito.
+A comunicação clara evita mal-entendido.
+O mal-entendido gera confusão.
+A confusão causa problema.
+O problema tem solução geralmente.
+A solução requer criatividade às vezes.
+A criatividade é dom ou hábito.
+A inovação muda paradigma.
+O paradigma é modelo mental.
+A mudança é constante.
+A transformação é profunda.
+A evolução é gradual.
+O progresso é avanço.
+O desenvolvimento é crescimento.
+O crescimento pode ser físico ou mental.
+A expansão aumenta tamanho.
+A redução diminui volume.
+A contração encolhe.
+A dilatação alarga.
+A ampliação aumenta escala.
+A miniaturização reduz tamanho.
+A nanotecnologia trabalha em escala atômica.
+A biotecnologia manipula seres vivos.
+A engenharia genética edita genes.
+O CRISPR revolucionou edição genética.
+A clonagem copia organismo.
+O clone é cópia genética.
+A célula-tronco pode virar qualquer célula.
+A medicina regenerativa promete muito.
+A terapia gênica corrige gene defeituoso.
+O futuro da medicina é personalizado.
+A medicina de precisão considera genética individual.
+O big data analisa milhões de dados.
+A inteligência artificial diagnostica doença.
+O machine learning melhora com dados.
+A rede neural simula cérebro.
+O algoritmo de IA decide sozinho.
+A automação substitui trabalho humano.
+O robô executa tarefa repetitiva.
+A robótica avança rapidamente.
+O androide imita humano.
+O ciborgue é humano com partes artificiais.
+A realidade virtual simula mundo.
+A realidade aumentada sobrepõe informação.
+O metaverso é mundo virtual.
+A blockchain descentraliza registro.
+A criptomoeda é digital.
+O Bitcoin foi primeiro.
+O Ethereum permite contratos inteligentes.
+A NFT é token não fungível.
+A tokenização representa ativo digitalmente.
+A descentralização distribui poder.
+A centralização concentra controle.
+O poder corrompe.
+A corrupção mina confiança.
+A transparência reconstrói confiança.
+A accountability responsabiliza.
+A prestação de contas é obrigação.
+A auditoria verifica conformidade.
+A compliance segue regulamentação.
+A regulação estabelece regra.
+A lei é norma maior.
+O decreto regulamenta lei.
+A portaria é ato administrativo.
+A resolução decide questão.
+A deliberação é colegiada.
+A votação decide por maioria.
+O consenso é acordo geral.
+O dissenso é discordância.
+A divergência é natural.
+A pluralidade enriquece debate.
+O debate confronta ideias.
+A discussão aprofunda tema.
+O argumento sustenta posição.
+A tese defende ponto de vista.
+A antítese contrapõe.
+A síntese integra ideias.
+A dialética é método filosófico.
+A lógica estrutura pensamento já disse.
+O raciocínio dedutivo vai do geral ao particular.
+O raciocínio indutivo vai do particular ao geral.
+A inferência é conclusão.
+A premissa é ponto de partida.
+A conclusão é ponto de chegada.
+O silogismo é estrutura lógica.
+A falácia é erro lógico.
+O sofisma engana intencionalmente.
+A retórica persuade.
+A eloquência impressiona já disse.
+A oratória é arte já disse.
+O discurso mobiliza já disse.
+A palavra tem poder já disse.
+A linguagem expressa pensamento já disse.
+A comunicação é essencial já disse.
+O silêncio também comunica.
+A linguagem corporal revela emoção.
+O gesto expressa intenção.
+A postura demonstra atitude.
+A expressão facial mostra sentimento.
+O sorriso transmite alegria.
+O franzir de testa indica preocupação.
+O olhar diz muito.
+O contato visual estabelece conexão.
+O abraço conforta.
+O aperto de mão cumprimenta.
+O beijo demonstra afeto.
+O carinho acalenta.
+O afago acalma.
+O toque humano cura às vezes.
+A presença física importa.
+A ausência dói.
+A saudade aperta coração.
+A nostalgia revisita passado.
+A memória guarda experiência.
+O esquecimento apaga lembrança.
+A amnésia é perda de memória.
+A demência deteriora cognição.
+O Alzheimer esquece tudo gradualmente.
+O Parkinson treme.
+A esclerose múltipla afeta sistema nervoso.
+A epilepsia causa convulsão.
+A enxaqueca é dor de cabeça forte.
+A cefaleia é dor de cabeça genérica.
+A dor crônica persiste.
+A dor aguda é súbita.
+A anestesia bloqueia dor.
+A analgesia reduz dor.
+O anestesista administra anestesia já disse.
+A anestesia geral dorme paciente.
+A anestesia local dorme área.
+A raquianestesia é na coluna.
+A peridural é usada no parto.
+O parto normal é vaginal.
+A cesárea é cirúrgica.
+O parto humanizado respeita mulher.
+A doula acompanha parto.
+A parteira assiste nascimento.
+O obstetra é médico do parto.
+O neonatologista cuida de recém-nascido.
+A UTI neonatal é para bebê grave.
+A incubadora mantém temperatura.
+O prematuro nasce antes da hora.
+O bebê a termo nasce no tempo certo.
+O recém-nascido é frágil.
+O bebê mama no seio.
+O aleitamento materno é ideal.
+A amamentação nutre e protege.
+O leite materno é perfeito.
+A mamadeira é alternativa.
+A fórmula infantil substitui leite materno.
+A introdução alimentar começa aos seis meses.
+A papinha é primeiro alimento sólido.
+O bebê cresce rápido.
+A criança desenvolve habilidades.
+O desenvolvimento infantil tem fases.
+A primeira infância é crucial.
+A educação infantil é base.
+A creche cuida de bebê.
+A pré-escola prepara para escola.
+O ensino fundamental é obrigatório.
+O ensino médio completa educação básica.
+O ensino superior forma profissional.
+A graduação dura anos.
+A pós-graduação especializa.
+O mestrado é acadêmico.
+O doutorado é pesquisa.
+O pós-doutorado é estágio avançado.
+A tese de doutorado é original.
+A dissertação de mestrado é menor.
+A monografia é trabalho de conclusão.
+O TCC encerra graduação.
+A banca examina trabalho.
+A defesa apresenta pesquisa.
+A aprovação é conquista.
+A reprovação é frustrante.
+A recuperação dá segunda chance.
+A dependência em matéria atrasa formatura.
+O jubilamento desliga aluno.
+A desistência é comum infelizmente.
+A evasão escolar preocupa.
+O abandono tem causas múltiplas.
+A retenção escolar reprova aluno.
+A promoção avança série.
+O boletim mostra notas.
+A nota mede desempenho parcialmente.
+A avaliação pode ser formativa.
+A prova testa conhecimento.
+O exame é avaliação formal.
+O teste é menor que prova.
+O quiz é rápido.
+A questão de múltipla escolha facilita correção.
+A questão dissertativa exige escrita.
+A redação avalia argumentação.
+A ortografia é escrita correta.
+A gramática estrutura língua.
+A sintaxe organiza palavras.
+A morfologia estuda estrutura palavra.
+A semântica estuda significado.
+A pragmática estuda uso.
+A fonética estuda sons.
+A fonologia estuda sistema sonoro.
+O vocabulário é conjunto de palavras.
+O léxico é inventário de palavras.
+O dicionário define palavras.
+A enciclopédia explica conceitos.
+O glossário define termos técnicos.
+O índice remissivo localiza assunto.
+A bibliografia lista fontes.
+A referência cita fonte.
+A citação reproduz trecho.
+A paráfrase reformula ideia.
+O plágio copia sem citar.
+A propriedade intelectual já disse protege obra.
+O direito autoral já disse protege criador.
+A pirataria já disse prejudica indústria.
+A cópia ilegal já disse é crime.
+A licença já disse permite uso.
+O creative commons flexibiliza direitos.
+O domínio público já disse libera obra.
+O acesso aberto democratiza conhecimento.
+A ciência aberta compartilha dados.
+A pesquisa colaborativa une esforços.
+A cooperação científica avança conhecimento.
+A competição também impulsiona.
+O Nobel premia excelência.
+O Prêmio Nobel é prestigioso.
+A medalha Fields é para matemática.
+O Prêmio Turing é para computação.
+O Prêmio Pulitzer é para jornalismo.
+O Oscar premia cinema.
+O Grammy premia música.
+O Emmy premia televisão.
+O Tony premia teatro.
+O Booker premia literatura.
+O Prêmio Goncourt é francês.
+O Nobel de Literatura é máxima honra literária.
+A literatura clássica permanece.
+A literatura contemporânea reflete presente.
+A ficção inventa histórias.
+A não-ficção relata real.
+A ficção científica especula futuro.
+A fantasia cria mundos imaginários.
+O realismo mágico mistura real e mágico.
+O terror assusta.
+O suspense mantém tensão.
+O mistério intriga.
+O romance policial investiga crime.
+O thriller acelera coração.
+A ação é trepidante.
+A aventura explora.
+O romance histórico recria época.
+A biografia já disse narra vida.
+A autobiografia já disse é pessoal.
+A ficção histórica mistura fato e invenção.
+O romance é longo.
+A novela é média.
+O conto já disse é breve.
+O microconto é curtíssimo.
+A crônica já disse registra cotidiano.
+O ensaio já disse reflete.
+O artigo acadêmico pesquisa.
+A resenha critica obra.
+A crítica literária analisa.
+O comentário opina.
+A opinião é subjetiva.
+A resenha crítica avalia.
+A análise literária interpreta.
+A interpretação é pessoal mas argumentada.
+O significado é construído.
+A metáfora compara implicitamente.
+A analogia compara didaticamente.
+A comparação estabelece relação.
+O contraste mostra diferença.
+A antítese já disse contrapõe.
+A ironia diz o contrário.
+O sarcasmo fere com ironia.
+O humor diverte.
+A comédia faz rir.
+A tragédia emociona profundamente.
+O drama é sério.
+A sátira critica com humor.
+A paródia imita ridicularizando.
+A farsa exagera.
+O melodrama é exagerado emocionalmente.
+O teatro encena peça.
+O palco é cenário.
+O ator interpreta personagem.
+A atriz representa papel.
+O elenco é conjunto de atores.
+O diretor comanda montagem.
+O roteiro é texto base.
+O dramaturgo escreve peça.
+O cenário ambienta ação.
+A iluminação cria atmosfera.
+O som ambienta cena.
+A trilha sonora embala filme.
+O filme conta história em imagens.
+O cinema é sétima arte.
+O diretor de cinema conduz filme.
+O roteirista escreve roteiro de filme.
+O ator de cinema atua para câmera.
+A câmera registra cena.
+O cinegrafista opera câmera.
+O diretor de fotografia cria visual.
+A fotografia é arte de luz.
+O fotógrafo captura momento.
+A foto congela tempo.
+A imagem vale mil palavras.
+O vídeo é imagem em movimento.
+A edição monta sequência.
+O editor corta e cola cenas.
+A montagem cria ritmo.
+O corte transiciona cena.
+A transição suaviza mudança.
+O efeito especial cria ilusão.
+A computação gráfica gera imagem.
+A animação dá vida a desenho.
+O desenho animado encanta criança.
+A animação 3D é realista.
+A animação 2D é clássica.
+O stop motion anima objetos.
+A técnica quadro a quadro é trabalhosa.
+O estúdio produz filme.
+A produtora financia projeto.
+A distribuidora leva filme ao cinema.
+A bilheteria vende ingresso.
+A renda de bilheteria mede sucesso.
+O blockbuster é sucesso comercial.
+O cult tem público fiel pequeno.
+O clássico resiste ao tempo.
+A obra-prima é excepcional.
+A masterpiece é obra-prima em inglês.
+O ícone representa ideia visualmente.
+O símbolo tem significado cultural.
+A alegoria representa abstrato.
+A personificação dá características humanas.
+A hipérbole exagera.
+A metonímia substitui por associação.
+A sinédoque é parte pelo todo.
+A elipse omite termo.
+A repetição enfatiza.
+A aliteração repete som.
+A rima combina sons finais.
+A métrica mede verso.
+O verso é linha de poesia.
+A estrofe agrupa versos.
+O poema é composição poética.
+A poesia já disse toca alma.
+A prosa é texto corrido.
+O parágrafo organiza ideia.
+A frase expressa pensamento completo.
+A oração tem verbo.
+O sujeito pratica ação.
+O predicado informa sobre sujeito.
+O verbo indica ação ou estado.
+O substantivo nomeia ser.
+O adjetivo qualifica substantivo.
+O advérbio modifica verbo.
+A preposição liga termos.
+A conjunção conecta orações.
+A interjeição expressa emoção.
+O pronome substitui nome.
+O artigo determina substantivo.
+O numeral quantifica.
+A concordância harmoniza termos.
+A regência exige preposição.
+A colocação posiciona palavra.
+A pontuação organiza texto.
+O ponto final encerra frase.
+A vírgula separa termos.
+O ponto e vírgula é intermediário.
+Os dois pontos introduzem.
+As reticências sugerem continuação.
+O ponto de interrogação questiona.
+O ponto de exclamação exclama.
+As aspas citam.
+O travessão indica fala.
+Os parênteses inserem informação adicional.
+Os colchetes esclarecem.
+A barra separa opções.
+O hífen une palavras.
+A crase é fusão de preposição e artigo.
+O acento agudo marca tônica aberta.
+O acento circunflexo marca tônica fechada.
+O til nasaliza vogal.
+A cedilha dá som de ss.
+O trema não existe mais no português brasileiro.
+A reforma ortográfica mudou regras.
+O acordo ortográfico unificou grafia.
+A língua portuguesa é rica.
+O português brasileiro difere do europeu.
+O sotaque varia por região.
+O dialeto é variante regional.
+O idioma é língua de povo.
+A língua materna é primeira.
+A segunda língua é aprendida.
+O bilinguismo domina duas línguas.
+O multilinguismo domina várias.
+A tradução transpõe língua.
+O tradutor converte texto.
+O intérprete traduz oralmente.
+A interpretação simultânea é ao vivo.
+A legenda traduz diálogo.
+A dublagem substitui voz original.
+O áudio original preserva atuação.
+A versão legendada mantém idioma.
+O filme estrangeiro expande horizonte.
+A cultura estrangeira enriquece.
+A diversidade cultural é patrimônio.
+O multiculturalismo celebra diferença.
+A inclusão integra todos.
+A exclusão marginaliza.
+A marginalização é injusta.
+A equidade já disse busca justiça.
+A igualdade já disse é direito.
+A diferença deve ser respeitada já disse.
+O respeito já disse é básico.
+A dignidade humana é inalienável.
+Os direitos humanos são universais.
+A declaração universal é marco.
+A ONU promove paz.
+A paz mundial é desejada já disse.
+O conflito internacional preocupa.
+A guerra já disse é terrível.
+A diplomacia negocia.
+O acordo internacional pacifica.
+O tratado é documento formal.
+A convenção estabelece norma.
+O protocolo adiciona ao tratado.
+A ratificação confirma adesão.
+A assinatura manifesta intenção.
+A adesão é voluntária geralmente.
+A denúncia abandona tratado.
+A soberania é poder supremo.
+O Estado é organização política.
+A nação é comunidade cultural.
+O país é território com governo.
+A capital é sede do governo.
+A bandeira simboliza nação.
+O hino expressa identidade nacional.
+O brasão é escudo heráldico.
+O lema sintetiza valor.
+O símbolo nacional representa país.
+A moeda oficial circula em país.
+O real é moeda brasileira.
+O dólar é moeda americana.
+O euro é moeda europeia.
+A libra é moeda britânica.
+O iene é moeda japonesa.
+O yuan é moeda chinesa.
+A rupia é indiana.
+O peso é mexicano.
+O franco suíço é forte.
+A coroa é escandinava.
+O câmbio troca moedas.
+A taxa de câmbio oscila.
+A cotação varia diariamente.
+A conversão calcula equivalência.
+O conversor facilita cálculo.
+A inflação corrói poder de compra.
+A deflação reduz preços.
+A hiperinflação descontrola economia.
+A estabilidade monetária tranquiliza.
+O banco central controla moeda.
+A política monetária regula economia.
+A taxa de juros já disse controla crédito.
+O juros alto desestimula consumo.
+O juros baixo estimula investimento.
+O crédito financia compra.
+O empréstimo já disse empresta dinheiro.
+O financiamento já disse parcela bem.
+O investimento busca retorno.
+A poupança guarda dinheiro.
+A aplicação financeira rende.
+O rendimento é ganho.
+A rentabilidade mede eficiência.
+O lucro já disse é ganho.
+O prejuízo já disse é perda.
+O retorno sobre investimento é ROI.
+A margem de lucro é percentual.
+O faturamento já disse é receita bruta.
+A receita já disse entra.
+A despesa sai.
+O custo é gasto necessário.
+A economia reduz gasto.
+O corte de custo busca eficiência.
+A otimização melhora processo.
+A eficiência é fazer certo.
+A eficácia é fazer o que deve.
+A efetividade é resultado alcançado.
+O objetivo é meta.
+A meta é quantificada.
+O alvo é foco.
+O propósito é razão.
+A missão define essência.
+A visão projeta futuro.
+Os valores guiam ação já disse.
+A cultura organizacional permeia empresa.
+O clima organizacional é ambiente.
+A satisfação no trabalho motiva.
+A motivação já disse impulsiona.
+O engajamento conecta funcionário.
+O comprometimento dedica-se.
+A lealdade permanece fiel.
+A rotatividade troca funcionário.
+O turnover mede saída.
+A retenção de talentos já disse mantém.
+O recrutamento já disse busca candidato.
+A seleção já disse escolhe melhor.
+A entrevista já disse avalia.
+O processo seletivo filtra.
+A triagem inicial peneira currículo.
+A dinâmica de grupo já disse testa comportamento.
+O teste psicológico avalia perfil.
+O teste técnico mede conhecimento.
+A referência profissional confirma histórico.
+O background check investiga passado.
+A verificação de antecedentes é prudente.
+A contratação já disse oficializa vínculo.
+O onboarding integra novo funcionário.
+A integração facilita adaptação.
+O treinamento capacita.
+A capacitação desenvolve habilidade.
+O desenvolvimento profissional cresce carreira.
+A promoção já disse eleva cargo.
+O aumento salarial reconhece valor.
+O bônus recompensa resultado.
+A comissão paga por venda.
+O incentivo já disse estimula desempenho.
+A avaliação de desempenho mensura resultado.
+O feedback já disse retorna informação.
+A crítica construtiva já disse aperfeiçoa.
+O elogio já disse motiva.
+O reconhecimento já disse valoriza.
+A valorização já disse retém talento.
+A desvalorização desmotiva.
+A desmotivação reduz produtividade.
+A produtividade mede resultado por tempo.
+A qualidade supera quantidade às vezes.
+A excelência é padrão alto.
+O padrão estabelece referência.
+A referência é modelo.
+O benchmark compara com melhor.
+A melhoria contínua é kaizen.
+A inovação já disse transforma.
+A disrupção revoluciona mercado.
+O mercado é ambiente de troca.
+A oferta já disse disponibiliza produto.
+A demanda procura produto.
+O preço já disse equilibra oferta e demanda.
+A lei da oferta e demanda regula mercado.
+O equilíbrio é ponto ótimo.
+O desequilíbrio gera oportunidade ou crise.
+A crise já disse testa.
+A oportunidade é janela.
+A janela de oportunidade fecha.
+O timing já disse é essencial.
+A antecipação prevê futuro.
+A previsão estima evento.
+A projeção calcula tendência.
+A tendência indica direção.
+A direção é rumo.
+O rumo orienta caminho.
+O caminho já disse leva ao destino.
+O destino é ponto final.
+A chegada conclui jornada.
+A jornada já disse é processo.
+O processo já disse tem etapas.
+A etapa já disse é fase.
+A fase é período.
+O período é intervalo de tempo.
+O tempo já disse não para.
+A vida já disse continua.
+O mundo gira.
+A Terra é nosso planeta.
+O planeta azul tem água.
+A atmosfera protege vida.
+A camada de ozônio filtra UV.
+O buraco na camada preocupava.
+A recuperação é lenta mas acontece.
+O aquecimento global já disse preocupa.
+A temperatura média sobe.
+O gelo polar derrete.
+O nível do mar sobe.
+As ilhas pequenas estão ameaçadas.
+As cidades costeiras correm risco.
+A erosão costeira avança.
+O litoral muda constantemente.
+A geografia física estuda relevo.
+A geografia humana estuda sociedade.
+A geopolítica analisa poder territorial.
+A cartografia faz mapas.
+O mapa representa território.
+A escala reduz proporcionalmente.
+A legenda explica símbolos.
+A rosa dos ventos orienta.
+O norte é ponto cardeal.
+O sul é oposto ao norte.
+O leste é onde sol nasce.
+O oeste é onde sol se põe.
+O nordeste fica entre norte e leste.
+O noroeste combina norte e oeste.
+O sudeste une sul e leste.
+O sudoeste junta sul e oeste.
+A bússola aponta norte magnético.
+O GPS localiza via satélite.
+A navegação por satélite é precisa.
+A localização é coordenada.
+A latitude mede norte-sul.
+A longitude mede leste-oeste.
+O equador divide hemisférios.
+O meridiano de Greenwich é referência.
+O fuso horário divide tempo.
+A hora muda conforme longitude.
+O horário de verão economizava energia.
+O horário de Brasília é oficial.
+O UTC é tempo universal.
+O GMT é Greenwich Mean Time.
+A data internacional muda no Pacífico.
+O calendário gregoriano é usado.
+O ano bissexto tem 366 dias.
+Fevereiro tem 29 dias no bissexto.
+Os meses têm 30 ou 31 dias.
+Janeiro abre o ano.
+Fevereiro é curto.
+Março traz outono no sul.
+Abril tem Páscoa às vezes.
+Maio homenageia trabalhador.
+Junho festeja São João.
+Julho é férias escolares.
+Agosto é frio no sul.
+Setembro traz primavera austral.
+Outubro tem eleições em anos pares.
+Novembro é mês dos mortos.
+Dezembro fecha o ano com festas.
+O Natal celebra nascimento de Cristo.
+O Ano Novo é mundial.
+A virada é meia-noite.
+Os fogos iluminam céu.
+A festa reúne multidões.
+A comemoração é efusiva.
+A alegria contagia.
+A esperança renova a cada ano.
+Os votos de felicidade são tradição.
+As resoluções de ano novo motivam.
+A mudança de hábito é difícil.
+A persistência é necessária já disse.
+O hábito leva 21 dias para formar.
+A rotina se estabelece.
+A disciplina já disse mantém hábito.
+O compromisso consigo mesmo importa.
+A autoestima é amor próprio.
+O autocuidado é essencial.
+A saúde mental merece atenção.
+O bem-estar emocional é importante.
+O equilíbrio emocional estabiliza.
+A inteligência emocional gerencia sentimento.
+A empatia já disse conecta.
+A compaixão já disse alivia.
+A gentileza já disse cativa.
+A bondade aquece coração.
+A maldade machuca.
+A crueldade é desumana.
+A humanidade é essência.
+O humanismo valoriza pessoa.
+A dignidade já disse é inalienável.
+O valor humano é intrínseco.
+A pessoa é fim, não meio.
+O utilitarismo maximiza felicidade geral.
+A ética consequencialista avalia resultado.
+A ética deontológica avalia intenção.
+O imperativo categórico é universal.
+A regra de ouro é recíproca.
+Não faça aos outros o que não quer para si.
+Faça aos outros o que gostaria que fizessem a você.
+A reciprocidade equilibra relação.
+A mutualidade beneficia ambos.
+A cooperação já disse multiplica resultado.
+A colaboração une esforços já disse.
+O trabalho em equipe é poderoso.
+A equipe é mais que soma das partes.
+A sinergia potencializa resultado.
+O todo é maior que partes.
+A visão holística integra.
+A abordagem sistêmica considera contexto.
+O sistema é conjunto interligado.
+A parte afeta o todo.
+O todo influencia parte.
+A interdependência conecta tudo.
+A conexão é universal.
+A rede conecta pontos.
+O nó é ponto de conexão.
+O link é ligação.
+A relação é vínculo.
+O laço une pessoas.
+O elo é parte da corrente.
+A corrente é forte como elo mais fraco.
+A fragilidade de um afeta todos.
+A força coletiva protege.
+A união faz a força.
+A divisão enfraquece.
+A fragmentação dispersa energia.
+A dispersão reduz impacto.
+A concentração foca energia.
+O foco já disse é fundamental.
+A atenção já disse é preciosa.
+A atenção plena é mindfulness.
+A meditação já disse acalma.
+A contemplação observa.
+A observação nota detalhes.
+O detalhe faz diferença.
+A diferença pode ser sutil.
+A sutileza é refinada.
+O refinamento é sofisticação.
+A sofisticação é complexa.
+A complexidade tem camadas.
+A simplicidade é elegante já disse.
+A elegância é discreta.
+A discrição é prudente.
+A prudência evita risco.
+A imprudência já disse é perigosa.
+O perigo ameaça.
+A ameaça assusta.
+O medo já disse paralisa.
+A coragem já disse age apesar do medo.
+A bravura enfrenta perigo.
+A heroicidade é excepcional.
+O herói salva outros.
+A heroína também.
+O protagonista é personagem principal.
+O antagonista opõe protagonista.
+O conflito move história.
+A história tem começo meio e fim.
+O início já disse apresenta situação.
+O desenvolvimento complica.
+O clímax é ponto alto.
+A resolução resolve conflito.
+O desfecho encerra narrativa.
+A narrativa conta história.
+O narrador conta.
+O narrador em primeira pessoa participa.
+O narrador em terceira pessoa observa.
+O narrador onisciente sabe tudo.
+O narrador observador só vê.
+O ponto de vista determina perspectiva.
+A perspectiva muda interpretação.
+A interpretação já disse é pessoal.
+A leitura é ato individual.
+O leitor constrói significado.
+O texto é construção coletiva.
+O autor escreve.
+O leitor lê.
+O sentido surge no encontro.
+A intertextualidade dialoga com outros textos.
+A referência remete a outro texto.
+A alusão sugere sem nomear.
+A paráfrase já disse reformula.
+A citação direta já disse reproduz exato.
+A citação indireta reformula ideia.
+O discurso direto usa aspas.
+O discurso indireto relata fala.
+O discurso indireto livre mistura vozes.
+A polifonia tem várias vozes.
+A voz autoral é do autor.
+A voz narrativa conta história.
+A voz do personagem é própria.
+O diálogo já disse é troca.
+O monólogo é fala solitária.
+O solilóquio é pensamento em voz alta.
+O fluxo de consciência é interno.
+A corrente de pensamento flui.
+O pensamento é processo mental.
+A mente processa informação.
+O cérebro já disse controla.
+O córtex cerebral pensa.
+O cerebelo coordena movimento.
+O tronco encefálico é primitivo.
+O hipotálamo regula homeostase.
+A hipófise é glândula mestra.
+A glândula pineal produz melatonina.
+A melatonina regula sono.
+O sono restaura corpo.
+O sonho processa memória.
+O sono REM tem sonhos vívidos.
+O sono profundo recupera.
+A insônia impede sono.
+O cansaço acumula.
+A fadiga crônica esgota.
+O esgotamento é burnout.
+O estresse crônico adoece.
+O estresse agudo é pontual.
+A ansiedade já disse antecipa.
+O transtorno de ansiedade é patológico.
+A depressão é tristeza profunda.
+O transtorno depressivo maior é grave.
+A bipolaridade alterna humor.
+A mania é euforia extrema.
+A hipomania é mania leve.
+A ciclotimia oscila humor.
+A distimia é depressão leve crônica.
+A esquizofrenia altera realidade.
+A psicose perde contato com real.
+A alucinação percebe o inexistente.
+O delírio acredita no falso.
+A paranoia desconfia excessivamente.
+O transtorno obsessivo-compulsivo ritualiza.
+A obsessão é pensamento intrusivo.
+A compulsão é ato repetitivo.
+O TOC causa sofrimento.
+O transtorno de estresse pós-traumático revive trauma.
+O trauma marca profundamente.
+O abuso deixa cicatriz.
+O abuso físico agride corpo.
+O abuso emocional agride mente.
+O abuso sexual viola.
+A violência doméstica acontece em casa.
+A violência contra mulher é epidemia.
+O feminicídio mata por gênero.
+A Lei Maria da Penha protege mulher.
+A medida protetiva afasta agressor.
+O agressor deve ser punido.
+A vítima merece proteção.
+O acolhimento é primeiro passo.
+A denúncia é importante.
+O silêncio perpetua violência.
+A voz das vítimas deve ser ouvida.
+O testemunho relata vivência.
+A escuta ativa acolhe.
+A validação reconhece sentimento.
+O acolhimento não julga.
+O julgamento condena.
+A condenação pune.
+A punição é retributiva ou restaurativa.
+A justiça restaurativa repara dano.
+A mediação resolve conflito.
+A conciliação busca acordo.
+O acordo encerra disputa.
+A disputa judicial é adversarial.
+O processo judicial é moroso.
+A morosidade frustra.
+A celeridade agiliza.
+A eficiência processual economiza.
+O acesso à justiça é direito.
+A defensoria pública atende pobre.
+A justiça gratuita é garantia.
+O benefício da gratuidade isenta custos.
+Os honorários advocatícios são caros.
+O advogado já disse defende.
+A advocacia é essencial à justiça.
+A ordem dos advogados fiscaliza.
+A OAB regula profissão.
+O exame da ordem habilita.
+A carteira da OAB autoriza.
+O estagiário ainda não é advogado.
+O bacharel formou mas não passou OAB.
+O profissional liberal é autônomo.
+O autônomo trabalha por conta.
+O empresário empreende.
+O empreendedor já disse cria negócio.
+A startup já disse inova.
+A scale-up cresce rápido.
+A unicórnio vale bilhão.
+A empresa vale quanto mercado paga.
+O valor de mercado oscila.
+A bolsa de valores negocia ações.
+A ação é parte de empresa.
+O acionista é dono parcial.
+O dividendo distribui lucro.
+A valorização aumenta preço.
+A desvalorização reduz valor.
+A volatilidade varia muito.
+O risco é incerteza.
+A incerteza é inerente a investimento.
+O investidor assume risco.
+O perfil conservador evita risco.
+O perfil moderado equilibra.
+O perfil arrojado aceita risco.
+A diversificação reduz risco.
+A carteira diversificada protege.
+O ovo na mesma cesta é arriscado.
+A concentração expõe a risco.
+A exposição ao risco deve ser gerida.
+O gerenciamento de risco mitiga.
+A mitigação reduz impacto.
+O impacto já disse pode ser grande.
+A probabilidade mede chance.
+A chance pode ser calculada.
+O cálculo de probabilidade estima.
+A estatística já disse analisa dados.
+Os dados são fatos.
+O fato é verificável.
+A verificação confirma.
+A confirmação valida.
+A validação certifica.
+A certificação atesta qualidade.
+A qualidade já disse supera quantidade.
+A quantidade é volume.
+O volume é grande.
+A magnitude é tamanho.
+A grandeza impressiona.
+A imensidão é vasta.
+A vastidão se estende.
+A extensão é comprimento.
+O comprimento mede distância linear.
+A distância separa pontos.
+A proximidade aproxima.
+A aproximação reduz distância.
+A distância social se mantém.
+O distanciamento já disse protegeu.
+A proteção já disse é cuidado.
+O cuidado já disse prolonga vida.
+A vida já disse é preciosa.
+O valor da vida é inestimável.
+A preservação da vida é prioritária.
+A prioridade vem primeiro.
+A urgência não pode esperar.
+A emergência já disse exige ação imediata.
+A ação imediata salva.
+O salvamento resgata.
+O resgate já disse liberta.
+A libertação emancipa.
+A emancipação dá autonomia.
+A autonomia é liberdade.
+A liberdade já disse é preciosa.
+A prisão já disse tira liberdade.
+O cárcere confina.
+A cadeia prende.
+A penitenciária cumpre pena.
+A pena priva liberdade.
+A privação de liberdade pune.
+A reabilitação deveria ser foco.
+A ressocialização prepara retorno.
+O retorno à sociedade é desafio.
+O egresso enfrenta preconceito.
+O preconceito já disse julga sem conhecer.
+O estigma marca negativamente.
+A marca social persegue.
+A discriminação já disse exclui.
+A exclusão social marginaliza já disse.
+A marginalidade é estar à margem.
+A margem é borda.
+O centro é núcleo.
+A periferia cerca centro.
+O subúrbio é área residencial.
+A favela é comunidade.
+A comunidade se organiza.
+A organização social estrutura.
+A estrutura social hierarquiza.
+A hierarquia ordena posições.
+A posição social define status.
+O status é prestígio.
+O prestígio é reconhecimento social.
+A mobilidade social muda posição.
+A ascensão social sobe classe.
+A classe social agrupa por renda.
+A classe alta tem muito.
+A classe média equilibra.
+A classe baixa tem pouco.
+A pobreza é escassez.
+A miséria é extrema.
+A riqueza é abundância.
+A abundância sobra.
+A escassez falta.
+A falta gera necessidade.
+A necessidade motiva ação.
+A motivação já disse impulsiona.
+O impulso é força interna.
+A força de vontade supera já disse.
+A superação já disse é vitória.
+A vitória já disse celebra.
+A celebração marca conquista.
+A conquista já disse emociona.
+A emoção já disse é intensa.
+A intensidade é grau elevado.
+O grau mede intensidade.
+A temperatura já disse é grau de calor.
+O calor aquece.
+O frio esfria.
+A frieza já disse é falta de calor ou afeto.
+A calidez é calor afetivo.
+O afeto já disse une.
+A união já disse fortalece.
+A força já disse move.
+O movimento já disse é vida.
+A vida já disse continua sempre.
+O ciclo vital é nascimento crescimento reprodução e morte.
+A morte já disse é fim biológico.
+O fim é término.
+O término encerra.
+O encerramento finaliza.
+A finalização completa.
+A completude é totalidade.
+O todo já disse é completo.
+A parte já disse é fração.
+A fração é pedaço.
+O pedaço é porção.
+A porção é quantidade limitada.
+A quantidade já disse é número.
+O número quantifica.
+A quantificação mede.
+A medida já disse é precisa.
+A precisão já disse é exatidão.
+A exatidão é rigor.
+O rigor é severidade.
+A severidade é dureza.
+A dureza já disse não cede.
+A cedência é flexibilidade.
+A flexibilidade já disse adapta.
+A adaptação já disse permite sobrevivência.
+A sobrevivência já disse é imperativo.
+O imperativo é mandato.
+O mandato é ordem.
+A ordem já disse organiza.
+A organização já disse estrutura.
+A estrutura já disse sustenta.
+A sustentação apoia.
+O apoio suporta.
+O suporte é base.
+A base é fundamento.
+O fundamento é alicerce.
+O alicerce sustenta construção.
+A construção edifica.
+A edificação ergue.
+O erguimento levanta.
+A elevação sobe.
+A subida ascende.
+A ascensão vai para cima.
+A descida desce.
+O declínio cai.
+A queda é rápida.
+A rapidez é velocidade já disse.
+A velocidade já disse é rapidez.
+A lentidão é devagar.
+O devagar é cauteloso.
+A cautela já disse é cuidado.
+O cuidado já disse é atenção.
+A atenção já disse foca.
+O foco já disse concentra.
+A concentração já disse é atenção intensa.
+A intensidade já disse é força.
+A força já disse é potência.
+A potência é poder.
+O poder já disse transforma.
+A transformação já disse é mudança profunda.
+A mudança já disse é alteração.
+A alteração modifica.
+A modificação ajusta.
+O ajuste afina.
+A afinação corrige tom.
+O tom já disse é importante.
+A importância é relevância.
+A relevância é significância.
+O significado já disse é sentido.
+O sentido já disse dá direção ou significação.
+A direção já disse orienta.
+A orientação guia.
+O guia conduz.
+A condução dirige.
+A direção já disse é comando.
+O comando ordena.
+A ordem já disse manda.
+O mando é autoridade.
+A autoridade tem poder.
+O poder já disse corrompe.
+A corrupção já disse mina.
+A mineração extrai mineral.
+O mineral já disse é essencial.
+O essencial é fundamental.
+O fundamental é básico.
+O básico é simples.
+O simples é fácil.
+A facilidade simplifica.
+A simplificação reduz complexidade.
+A complexidade já disse tem camadas.
+As camadas se sobrepõem.
+A sobreposição empilha.
+A pilha acumula.
+A acumulação junta.
+A junção une.
+A união já disse soma.
+A soma adiciona.
+A adição aumenta.
+O aumento cresce.
+O crescimento já disse expande.
+A expansão já disse alarga.
+O alargamento amplia.
+A ampliação já disse aumenta escala.
+A escala já disse define tamanho.
+O tamanho é dimensão.
+A dimensão mede.
+A medida já disse quantifica.
+A quantificação já disse conta.
+A contagem numera.
+A numeração ordena.
+A ordem já disse sequencia.
+A sequência é série.
+A série é sucessão.
+A sucessão já disse transfere.
+A transferência move de lugar.
+O movimento já disse desloca.
+O deslocamento muda posição.
+A posição já disse é localização.
+A localização já disse situa.
+A situação é contexto.
+O contexto já disse envolve.
+O envolvimento participa.
+A participação engaja.
+O engajamento já disse conecta.
+A conexão já disse liga.
+A ligação já disse vincula.
+O vínculo já disse une.
+A união já disse é junção.
+A junção já disse combina.
+A combinação mistura.
+A mistura é heterogênea ou homogênea.
+A homogeneidade é uniforme.
+A uniformidade é igual.
+A igualdade já disse nivela.
+O nivelamento equaliza.
+A equalização balanceia.
+O balanceamento equilibra.
+O equilíbrio já disse estabiliza.
+A estabilidade já disse firma.
+A firmeza já disse é solidez.
+A solidez já disse é robustez.
+A robustez já disse é força.
+A força já disse é vigor.
+O vigor é energia.
+A energia já disse move tudo.
+O universo é infinito talvez.
+As galáxias se afastam.
+A expansão do universo acelera.
+A energia escura empurra.
+A matéria escura é invisível.
+A gravidade é força fundamental.
+O eletromagnetismo une átomos.
+A força nuclear forte une núcleo.
+A força nuclear fraca causa decaimento.
+As quatro forças fundamentais regem universo.
+A teoria da relatividade explica gravidade.
+A mecânica quântica explica átomo.
+O princípio da incerteza limita conhecimento.
+A dualidade onda-partícula intriga.
+O gato de Schrödinger ilustra paradoxo.
+O entrelaçamento quântico conecta partículas.
+A superposição permite estados múltiplos.
+O colapso da função de onda define estado.
+A medição interfere no sistema.
+O observador afeta observado.
+A realidade é relativa ao observador.
+O tempo é relativo à velocidade.
+A velocidade da luz é limite.
+Nada viaja mais rápido que luz.
+A luz é onda eletromagnética.
+O fóton é partícula de luz.
+O elétron orbita núcleo.
+O próton tem carga positiva.
+O nêutron é neutro.
+O átomo é maior parte vazio.
+A molécula é conjunto de átomos.
+A ligação química une átomos.
+A ligação iônica transfere elétron.
+A ligação covalente compartilha elétron.
+A ligação metálica é mar de elétrons.
+O cristal tem estrutura ordenada.
+O amorfo é desordenado.
+O estado sólido tem forma definida.
+O estado líquido escorre.
+O estado gasoso expande.
+O plasma é quarto estado.
+A mudança de estado absorve ou libera calor.
+A fusão derrete.
+A solidificação endurece.
+A vaporização evapora.
+A condensação liquefaz.
+A sublimação pula líquido.
+A ressublimação é sublimação inversa.
+A temperatura de fusão é específica.
+A temperatura de ebulição também.
+O ponto triplo tem três estados.
+O ponto crítico é limite.
+A pressão influencia ponto de ebulição.
+A altitude afeta pressão.
+No alto da montanha água ferve mais frio.
+A panela de pressão aumenta temperatura.
+A física estuda natureza.
+A química estuda transformação.
+A biologia estuda vida já disse.
+A geologia estuda Terra.
+A astronomia estuda cosmos.
+A meteorologia estuda atmosfera.
+A oceanografia estuda oceanos.
+A hidrologia estuda águas.
+A ecologia estuda interações.
+A zoologia estuda animais.
+A botânica estuda plantas.
+A microbiologia estuda micro-organismos.
+A virologia estuda vírus.
+A bacteriologia estuda bactérias.
+A micologia estuda fungos.
+A parasitologia estuda parasitas.
+A genética estuda herança.
+A evolução estuda mudança das espécies.
+A taxonomia classifica seres.
+A anatomia estuda estrutura.
+A fisiologia estuda função.
+A histologia estuda tecidos.
+A citologia estuda células.
+A embriologia estuda desenvolvimento.
+A paleontologia estuda fósseis.
+A arqueologia estuda civilizações antigas.
+A antropologia estuda ser humano.
+A sociologia estuda sociedade.
+A psicologia estuda mente já disse.
+A economia estuda recursos escassos.
+A política estuda poder.
+A história estuda passado.
+A geografia estuda espaço já disse.
+A filosofia estuda pensamento já disse.
+A teologia estuda religião.
+A pedagogia estuda educação.
+A linguística estuda língua.
+A semiótica estuda signos.
+A lógica estuda raciocínio já disse.
+A matemática estuda padrões.
+A aritmética estuda números.
+A álgebra estuda equações.
+A geometria estuda formas já disse.
+A trigonometria estuda triângulos já disse.
+O cálculo estuda mudança já disse.
+A estatística estuda dados já disse.
+A probabilidade estuda chance já disse.
+A topologia estuda continuidade.
+A teoria dos conjuntos é fundamental.
+A teoria dos números estuda inteiros.
+A análise matemática é rigorosa.
+A matemática aplicada resolve problemas práticos.
+A matemática pura busca beleza.
+A beleza matemática é abstrata.
+A abstração generaliza.
+A generalização amplia aplicação.
+A aplicação usa teoria.
+A teoria explica fenômeno.
+O fenômeno é observável.
+A observação é empírica.
+O empirismo baseia em experiência.
+A experiência ensina já disse.
+O experimento testa hipótese já disse.
+A hipótese propõe explicação já disse.
+A explicação esclarece.
+A clareza facilita entendimento.
+O entendimento é compreensão.
+A compreensão é profunda.
+A profundidade é extensão para baixo.
+A superfície é rasa.
+A rasura é superficial.
+A superficialidade não aprofunda.
+O aprofundamento investiga detalhes.
+A investigação pesquisa.
+A pesquisa busca conhecimento.
+O conhecimento é poder já disse.
+O poder bem usado constrói.
+O poder mal usado destrói.
+A destruição arruína.
+A ruína é fim trágico.
+O trágico é doloroso.
+A dor física ou emocional machuca já disse.
+A cura física ou emocional restaura já disse.
+A restauração renova já disse.
+A renovação atualiza.
+A atualização moderniza.
+A modernização acompanha tempo.
+O tempo presente é agora.
+O passado foi.
+O futuro será.
+O presente é único momento real.
+A realidade é o que existe.
+A existência é ser.
+O ser humano pensa.
+O pensar define humanidade.
+Penso logo existo.
+A existência precede essência.
+A essência é natureza fundamental.
+A natureza humana é debatida.
+O debate enriquece já disse.
+A riqueza não é só material.
+A riqueza espiritual também vale.
+O valor é atribuído.
+A atribuição define significado.
+O significado é construído socialmente.
+A sociedade molda indivíduo.
+O indivíduo também molda sociedade.
+A relação é dialética já disse.
+A dialética é movimento.
+O movimento social transforma.
+A transformação social é possível.
+A possibilidade abre caminho.
+O caminho se faz ao andar.
+Caminante no hay camino se hace camino al andar.
+O poeta espanhol disse isso.
+A poesia transcende língua.
+A tradução aproxima culturas.
+A cultura é patrimônio da humanidade.
+A humanidade é uma só espécie.
+A espécie humana é Homo sapiens.
+O Homo sapiens surgiu na África.
+A África é berço da humanidade.
+A humanidade migrou pelo mundo.
+O mundo é nossa casa.
+A casa é lar.
+O lar é onde está o coração.
+O coração é símbolo de amor.
+O amor move o mundo.
+O mundo gira em torno do sol.
+O sol é estrela média.
+A estrela média vive bilhões de anos.
+O bilhão é mil milhões.
+O milhão é mil mil.
+O mil é dez cem.
+O cem é dez dez.
+O dez é base decimal.
+A base binária é dois.
+O computador usa binário.
+O bit é zero ou um.
+O byte é oito bits.
+O kilobyte é mil bytes aproximadamente.
+O megabyte é milhão de bytes.
+O gigabyte é bilhão de bytes.
+O terabyte é trilhão de bytes.
+O petabyte é quatrilhão de bytes.
+A informação cresce exponencialmente.
+O crescimento exponencial acelera.
+A aceleração é mudança de velocidade.
+A velocidade é mudança de posição.
+A posição é relativa.
+Tudo é relativo.
+A relatividade é lei do universo.
+O universo é tudo que existe.
+O existente inclui possível.
+O possível pode ser real.
+O real é atual.
+O atual é presente.
+O presente é agora já disse.
+Agora é o único momento.
+O momento passa rápido.
+A rapidez do tempo impressiona.
+A impressão é subjetiva.
+O subjetivo é pessoal.
+O pessoal é individual.
+O individual é único.
+A unicidade define identidade.
+A identidade é quem somos.
+Somos o que fazemos.
+As ações definem caráter já disse.
+O caráter se forma com experiência.
+A experiência molda pessoa.
+A pessoa é ser social.
+O ser social vive em grupo.
+O grupo protege indivíduo.
+A proteção coletiva beneficia todos.
+Todos merecem dignidade já disse.
+A dignidade é inerente.
+O inerente é intrínseco já disse.
+O intrínseco não pode ser tirado.
+A inalienabilidade protege direito.
+O direito fundamental é universal já disse.
+O universal aplica a todos.
+Todos são iguais em direitos.
+A igualdade de direitos não nega diferença.
+A diferença enriquece já disse.
+A riqueza da diversidade é imensa.
+A imensidão da variedade fascina.
+O fascínio atrai.
+A atração aproxima.
+A proximidade cria laço.
+O laço emocional une profundamente.
+A profundidade da conexão importa.
+A importância das relações é vital.
+A vitalidade é energia de vida.
+A vida é energia organizada.
+A organização surge do caos.
+O caos é ordem incompreendida.
+A compreensão revela ordem.
+A ordem emerge da desordem.
+A desordem aumenta com tempo.
+A entropia cresce sempre.
+O sempre é eterno.
+A eternidade é conceito infinito.
+O infinito não tem fim.
+O fim é limite.
+O limite pode ser superado.
+A superação ultrapassa barreira.
+A barreira é obstáculo já disse.
+O obstáculo testa determinação.
+A determinação vence desafio já disse.
+O desafio fortalece já disse.
+A força surge da adversidade.
+A adversidade é oportunidade disfarçada.
+A oportunidade deve ser aproveitada já disse.
+O aproveitamento maximiza potencial.
+O potencial é infinito já disse.
+A infinitude do potencial humano inspira.
+A inspiração move criação.
+A criação é ato divino ou humano.
+O humano cria arte.
+A arte expressa alma já disse.
+A alma é essência vital.
+A vitalidade da alma é eterna talvez.
+O talvez expressa dúvida.
+A dúvida é início do conhecimento.
+O conhecimento dissipa ignorância já disse.
+A ignorância é ausência de saber.
+O saber é acúmulo de conhecimento.
+O acúmulo excessivo pode confundir.
+A confusão é falta de clareza.
+A clareza vem da simplicidade já disse.
+A simplicidade é sofisticação máxima.
+A sofisticação é refinamento já disse.
+O refinamento é resultado de lapidação.
+A lapidação transforma bruto em belo.
+O belo inspira.
+A inspiração é musa.
+A musa é fonte criativa.
+A criatividade é infinita já disse.
+O infinito se encontra no finito.
+O finito é limitado.
+O limitado pode expandir.
+A expansão é crescimento já disse.
+O crescimento tem limites físicos.
+Os limites físicos não limitam mente.
+A mente transcende corpo.
+O corpo é templo da alma.
+O templo é sagrado.
+O sagrado é reverenciado.
+A reverência respeita.
+O respeito é base civilização.
+A civilização surge com agricultura.
+A agricultura fixa população.
+A população cresce com alimento.
+O alimento é necessidade básica.
+A necessidade gera invenção.
+A invenção é mãe da tecnologia.
+A tecnologia melhora vida.
+A vida com tecnologia é diferente.
+A diferença marca evolução.
+A evolução tecnológica acelera.
+A aceleração pode assustar.
+O susto é reação natural.
+A reação química transforma substância já disse.
+A substância é matéria específica.
+A matéria é energia condensada.
+A energia é capacidade de realizar trabalho.
+O trabalho move sociedade já disse.
+A sociedade moderna é complexa.
+A complexidade exige especialização.
+A especialização aprofunda conhecimento.
+O conhecimento específico é valioso.
+O valor do conhecimento cresce.
+O crescimento do saber é exponencial.
+A exponencial é curva acentuada.
+A curva mostra tendência.
+A tendência indica direção.
+A direção do futuro é incerta.
+A incerteza é única certeza.
+A certeza absoluta não existe.
+A existência é mistério.
+O mistério fascina humanidade.
+A humanidade busca respostas.
+As respostas geram mais perguntas.
+As perguntas movem ciência já disse.
+A ciência avança com dúvida.
+A dúvida metódica é cartesiana.
+Descartes duvidou de tudo.
+O tudo inclui própria existência.
+A existência do pensamento prova ser.
+O ser pensante é consciente.
+A consciência é mistério profundo.
+O profundo da consciência é inexplorado.
+A exploração da mente continua.
+A continuidade da pesquisa é vital.
+A vitalidade da ciência impressiona.
+A impressão digital identifica pessoa.
+A pessoa tem direito privacidade.
+A privacidade é protegida por lei.
+A lei de proteção de dados é recente.
+O recente torna-se antigo rápido.
+A rapidez da mudança é vertiginosa.
+A vertigem confunde sentidos.
+Os sentidos captam mundo já disse.
+O mundo sensível é percebido.
+O percebido é interpretado.
+A interpretação cria realidade pessoal.
+A realidade pessoal é subjetiva já disse.
+O subjetivo é válido.
+A validação do subjetivo é importante.
+A importância do sentir é reconhecida.
+O reconhecimento emocional cresce.
+O crescimento emocional é necessário.
+A necessidade emocional é humana.
+O humano é animal racional e emocional.
+A emoção não é fraqueza.
+A fraqueza está em negar emoção.
+A negação impede crescimento.
+O crescimento pessoal é jornada.
+A jornada interior é mais importante.
+A importância do autoconhecimento é imensa.
+A imensidão do universo interior surpreende.
+A surpresa encanta.
+O encantamento é mágico.
+A mágica é ilusão ou maravilha.
+A maravilha existe no mundo.
+O mundo está cheio de beleza.
+A beleza está nos olhos de quem vê.
+Quem vê com coração enxerga mais.
+O mais importante é invisível aos olhos.
+Os olhos veem superfície.
+A superfície esconde profundidade.
+A profundidade está dentro.
+Dentro de cada um há universo.
+O universo interior é infinito.
+O infinito cabe no finito.
+O paradoxo é aparente.
+A aparência engana.
+A enganação é ilusão.
+A ilusão pode ser bela.
+A beleza salva mundo talvez.
+O mundo precisa ser salvo.
+A salvação vem de dentro.
+Dentro está a força.
+A força está em nós.
+Nós somos criadores.
+Os criadores moldam realidade.
+A realidade é maleável.
+A maleabilidade permite mudança.
+A mudança começa em um.
+Um pode fazer diferença.
+A diferença de um inspira milhões.
+Os milhões juntos transformam.
+A transformação coletiva é possível já disse.
+O possível está ao alcance.
+O alcance depende de esforço.
+O esforço conjunto multiplica resultado.
+O resultado é consequência de ação.
+A ação consciente transforma.
+A transformação consciente eleva.
+A elevação espiritual é meta.
+A meta final é transcendência.
+A transcendência é ir além.
+O além está aqui e agora.
+Agora é tudo que temos.
+O que temos é suficiente.
+A suficiência traz contentamento.
+O contentamento é felicidade.
+A felicidade é estado de ser.
+O ser feliz é escolha.
+A escolha é livre.
+A liberdade de escolher define humanidade.
+A humanidade escolhe seu destino.
+O destino é construído.
+A construção é diária.
+O diário é registro.
+O registro preserva memória.
+A memória é identidade.
+A identidade é narrativa.
+A narrativa que contamos define quem somos.
+Somos histórias que contamos.
+As histórias conectam gerações.
+As gerações transmitem sabedoria.
+A sabedoria dos antigos ilumina.
+A iluminação é compreensão profunda.
+A compreensão une tudo.
+Tudo é um.
+O um é tudo.
+A unidade é verdade última.
+A verdade liberta já disse.
+A libertação é realização.
+A realização completa jornada.
+A jornada nunca termina realmente.
+O realmente verdadeiro é eterno.
+O eterno retorno renova.
+A renovação constante é vida.
+A vida é ciclo eterno.
+O ciclo fecha e recomeça.
+O recomeço é sempre possível.
+A possibilidade é infinita já disse.
